@@ -2,8 +2,8 @@ Title: Home
 
 ----
 
-Introductiontitle: Hello! I'm John Doe.
+Introductiontitle: Portfolio
 
 ----
 
-Introductiontext: Currently I am looking for an internship where I can develop my skills as a third year Communication and Multimediadesign student.
+Introductiontext: Hei, kon ta bai? Esaki ta mi portofolio. Spera mi inspirá i konvensé bo ku ami ta e kandidato perfekto pa kore stage serka bo!

@@ -5,7 +5,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  
+  <link rel="stylesheet" href="assets/css/costum1.css" type="text/css">
+
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great&display=swap" rel="stylesheet">
   <link rel="icon" href="<?= $site->image()->url() ?>">
 
   <title><?= $site->title() ?> | <?= $page->title() ?></title>
@@ -16,7 +20,7 @@
   <header>
     <nav class="navbar navbar-expand-lg navbar-light">
       <a class="navbar-brand" href="<?= $site->url() ?>">
-        <img src="<?= $site->image()->url() ?>" width="48px" height="48px" alt="<?= $site->image()->alt() ?>" class="rounded-circle"/>
+        <img src="<?= $site->image()->url() ?>" width="60px" height="60px" alt="<?= $site->image()->alt() ?>" class="square"/>
         <?= $site->title() ?>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
