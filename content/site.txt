@@ -1,14 +1,12 @@
-Title: Raydaniël Petroudis
+Title: Raydaniel Petroudis
 
 ----
 
-Logo:
-
-- new-logo-16.png
+Logo: - new-logo-16.png
 
 ----
 
-Email: r.sinke@hr.nl
+Email: raydaniel.petroudis@gmail.com
 
 ----
 
@@ -16,10 +14,11 @@ Social:
 
 - 
   platform: Instagram
-  url: https://twitter.com/robzooi
+  url: https://instagram.com/raydanielpetroudis
 - 
   platform: LinkedIn
-  url: https://www.linkedin.com/in/robinsinke/
+  url: >
+    https://www.linkedin.com/in/raydaniel-petroudis-818814137/
 
 ----
 
