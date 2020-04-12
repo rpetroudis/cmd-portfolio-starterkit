@@ -2,5 +2,15 @@ h1 {
     color: orange;
     font-family: 'Fredericka the Great', cursive;
     text-align: center;
+    position: relative;
 }
 
+.bg {
+    background-image: "<?= $page->image()->url(); ?>";
+    height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
