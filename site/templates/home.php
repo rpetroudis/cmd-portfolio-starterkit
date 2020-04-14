@@ -20,16 +20,20 @@
 
 <main>
 
-  <div class="back">
-  <div class="row align-items-center">
-    <div class="col-12 col-lg-6">
-    <img src="<?= $site->image()->url() ?>" width="75px" height="75px" alt="<?= $site->image()->alt() ?>" class="square"/>
-      <h1><?= $page->introductiontitle() ?></h1>
-      <p class="lead"><?= $page->introductiontext() ?></p>
-      <a href="<?= $site->page('projects') ?>" class="btn btn-primary" role="button" aria-pressed="true">View my work</a>
-      <a href="<?= $site->page('about') ?>" class="btn btn-outline-primary" role="button" aria-pressed="true">About me</a>
+<div class="container-bg">
+      <video loop muted autoplay class="fullscreen-bg_video"> 
+       <source src="/content/placeholder.webm" type="video/webm">
+        <source src="/content/placeholder.mp4" type="video/mp4">
+      </video>
+    <div class="row align-items-center">
+      <div class="col-12 col-lg-6">
+        <img src="<?= $site->image()->url() ?>" width="75px" height="75px" alt="<?= $site->image()->alt() ?>" class="square"/>
+          <h1><?= $page->introductiontitle() ?></h1>
+          <p class="lead"><?= $page->introductiontext() ?></p>
+          <a href="<?= $site->page('projects') ?>" class="btn btn-primary" role="button" aria-pressed="true">View my work</a>
+          <a href="<?= $site->page('about') ?>" class="btn btn-outline-primary" role="button" aria-pressed="true">About me</a>
+      </div>
     </div>
-  </div>
 </div>
 
 </main>
