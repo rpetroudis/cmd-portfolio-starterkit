@@ -1,16 +1,66 @@
 h1 {
-    color: orange;
-    font-family: 'Fredericka the Great', cursive;
-    text-align: center;
-    position: relative;
+    color: #f6991b;
+    font-family: 'Permanent Marker', cursive;
+    text-align: left;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 20px;
 }
 
-.bg {
-    background-image: "<?= $page->image()->url(); ?>";
-    height: 100%;
+p {
+    font-family: 'Roboto', sans-serif;
+}
 
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.back {
+    background-image: url("/media/img/placeholder.mov");
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.fs-vid-background {
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: 0px;
+    }
+
+.col-lg-6 {
+    padding-top: 20%;
+    padding-left: 10%;
+}
+
+.btn-primary {
+    background-color: #41c0cd;
+    border-color: #41c0cd;
+}
+
+.btn-outline-primary {
+    border-color: #41c0cd;
+    color: #41c0cd;
+}
+
+.btn-primary:hover {
+    color: #41c0cd;
+    background-color: #096d82;
+    border-color: #096d82;
+}
+
+.btn-outline-primary:hover {
+    color: #41c0cd;
+    background-color: #096d82;
+    border-color: #096d82;
+}
+
+.personal-logo {
+    width: 50px;
+    height: 50px;
 }
