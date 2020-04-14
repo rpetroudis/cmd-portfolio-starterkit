@@ -29,9 +29,9 @@
       <a href="<?= $site->page('projects') ?>" class="btn btn-primary" role="button" aria-pressed="true">View my work</a>
       <a href="<?= $site->page('about') ?>" class="btn btn-outline-primary" role="button" aria-pressed="true">About me</a>
     </div>
-
   </div>
 </div>
+
 </main>
 
 <?php snippet('footer') ?>
