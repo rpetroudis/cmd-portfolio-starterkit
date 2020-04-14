@@ -12,7 +12,7 @@ p {
 }
 
 .back {
-    background-image: url("/media/img/placeholder.mp4");
+    background-image: url("/content/placeholder.mp4");
     background-size: cover;
     height: 100vh;
 }
