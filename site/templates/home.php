@@ -34,6 +34,4 @@
 
 </main>
 
-/* ban wak si e koi koño aki ta tra */
-
 <?php snippet('footer') ?>
