@@ -14,7 +14,7 @@
         <div class="card-body">
           <h4 class="card-title"><a href="<?= $project->url() ?>"><?= $project->title() ?></a></h4>
           <p class="card-text"><?= $project->roles() ?> </p>
-          <a href="<?= $project->url() ?>">Read more &#8594;</a>
+          <a class= "read" href="<?= $project->url() ?>">Read more &#8594;</a>
           </div>
         </div>
       </div>

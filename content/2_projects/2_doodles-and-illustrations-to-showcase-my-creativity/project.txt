@@ -18,7 +18,130 @@ Deliverables: Wireframes, Illustrations, Prototypes
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "For the client and RC we needed to design an attractive user on boarding program that will hook the new clients, this way lowering their cancelation rates.",
+        "id": "_es3HvvUwI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Except the additions I made to our product; a remodled app with new features, I focused also on the exposition.",
+        "id": "_i7jxnwpn1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Here my target group wasn\u2019t the clients of the NRC but the teachers, students, and NRC. Everyone who would visit the exhibit.",
+        "id": "_jxR6NEQLY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I wanted to have multiple medium work together cohesively. We had our product, our process, persona, all needed to be displayed.",
+        "id": "_Qvc8RWTaG",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/screenshot-2020-04-17-at-23.34.36.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1993327590-1587159343/screenshot-2020-04-17-at-23.34.36.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.34.36.png",
+            "ratio": 1.334905660377358582735496383975259959697723388671875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_hso167fvy",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/screenshot-2020-04-17-at-23.34.44.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/285909054-1587159357/screenshot-2020-04-17-at-23.34.44.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.34.44.png",
+            "ratio": 1.969072164948453718125165323726832866668701171875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_8upp1iew3",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/screenshot-2020-04-17-at-23.34.51.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/313982187-1587159375/screenshot-2020-04-17-at-23.34.51.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.34.51.png",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_ayk75d7an",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Brainstorm and inspiration online resulted in an interactive installation. It consisted only of pieces of paper hanged on nylon thread supported by a wooden frame. Each piece held some information that would together form the big picture.",
+        "id": "_Vp75Ro1hq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The persona was only a picture. This would be a trigger image for a augmented reality video, visible from your phone. This method was also applied to show how our new app worked.",
+        "id": "_iVhLNbrHo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/screenshot-2020-04-17-at-23.35.01.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2396089798-1587159403/screenshot-2020-04-17-at-23.35.01.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.35.01.png",
+            "ratio": 1.6017699115044248259209780371747910976409912109375,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_zde46i9bk",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/screenshot-2020-04-17-at-23.35.09.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3198232071-1587159416/screenshot-2020-04-17-at-23.35.09.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.35.09.png",
+            "ratio": 1.6028368794326242063874587984173558652400970458984375,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_irg9c9u87",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "This installation was a true challenge because I had to do research on different technologies that I haven\u2019t previously known so much about. On the plus side this opened up a world of possibilities for me in the future.",
+        "id": "_Vq0C9mU0I",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "When comparing this project to the first one I\u2019ve done, the game, I can notice some decent growth. Mostly the combination of different technologies to create a final piece, usually in expositions. It reinforced my will to study this course.",
+        "id": "_MwVp1daoy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/screenshot-2020-04-17-at-23.35.16.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/4155335283-1587159430/screenshot-2020-04-17-at-23.35.16.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.35.16.png",
+            "ratio": 1.3357015985790408052480415790341794490814208984375,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_65hvp4iao",
+        "type": "image"
+    }
+]
 
 ----
 

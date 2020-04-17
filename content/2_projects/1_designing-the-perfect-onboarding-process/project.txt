@@ -23,88 +23,26 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Heading 1",
-        "id": "_8mgii7n73",
-        "type": "h1"
+        "content": "For this project, we needed to design a game for freshman students of the Hogeschool Rotterdam. It needed to introduce the students to each other, as well as the city Rotterdam.",
+        "id": "_b5cjvmntf",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Heading 2",
-        "id": "_mvbw9p8m5",
-        "type": "h2"
+        "content": "Also it needed to contain a digital and a non-digital aspect/component.",
+        "id": "_0Jq1hE5Kv",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Heading 3",
-        "id": "_yxpdwjzuk",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Bullet list",
-        "id": "_kv7cm8v9d",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_08ifj03rw",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_kjtk0ujrw",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "This is a quote, don't you think?",
-        "id": "_cwnjhuy68",
-        "type": "blockquote"
-    },
-    {
-        "attrs": [],
-        "content": "Numbered list",
-        "id": "_nfbhfl436",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_03nv0yced",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_7rfdykoe8",
-        "type": "ol"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_n69m23272",
-        "type": "hr"
-    },
-    {
-        "attrs": [],
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "id": "_5o4r373i6",
+        "content": "We chose as target group Maritime Officer student, because Rotterdam is know for it\u2019s harbors. After desk and field reasearch, each team member brainstormed ideas/solution for the game.",
+        "id": "_R5y3UblrV",
         "type": "paragraph"
     },
     {
         "attrs": {
             "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1587135512/16-9-dummy.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1587156480/16-9-dummy.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
             "ratio": 1.5009380863039398779079647283651866018772125244140625,
             "caption": "Caption yeah!"
@@ -114,27 +52,100 @@ Text:
         "type": "image"
     },
     {
-        "attrs": {
-            "src": "https://youtu.be/Qb7dPpDDgq8",
-            "caption": "Caption yeah!"
-        },
-        "content": "",
-        "id": "_k2lm3y32f",
-        "type": "video"
+        "attrs": [],
+        "content": "I have decided to make the game take place in an 360 degrees immersive room with interactive walls, in which teams of 5 get to see a video about the city and harbor projected on the walls, where 1 team member needs to answer questions afterwards. Correct answers will earn the team time which can be used to move containers from a miniature ship, to the deck. This action is collectively controlled by the 4 remaining students using a hydraulic crane made out of syringes: the non-digital component.",
+        "id": "_mN3bz6NhY",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "I don't know what this is?",
-        "id": "_r7s0ov601",
-        "type": "kirbytext"
+        "content": "Containers on deck give you points. But you can also open a container and get a specific code. Typing this code in the wall can lead to advantages for you or other teams. The team decides if they\u2019re willing to take the risk.",
+        "id": "_GEp6fbo6A",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "My team chose this idea because it was the most unique compared to what the others had; some version of a board game.",
+        "id": "_SAOHNBsBh",
+        "type": "paragraph"
     },
     {
         "attrs": {
-            "language": "css"
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/text5.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/217896243-1587159052/text5.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/text5.jpg",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": ""
         },
-        "content": "And what should this be?",
-        "id": "_ymeh8uuyc",
-        "type": "code"
+        "content": "",
+        "id": "_2lq0vmws4",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "I created a low-fid version of the crane to do a usability test. After collecting and analyzing the feedback I created a high fid version of the crane.",
+        "id": "_OivuukNYw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Because we could not create an immersive room in the actual size, I designed a setup to showcase a scale model of it. It used three laptops any 360\u00b0 video placed at the right angle on each screen respectively, these, supported by a lasercut frame.",
+        "id": "_m66sp5t8i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_kvnkdeemv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/text1.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4185682931-1587158807/text1.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/text1.jpg",
+            "ratio": 0.75,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_nhya2lur8",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/text2.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3202091299-1587158837/text2.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/text2.jpg",
+            "ratio": 0.75,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_xhuo7ccia",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "I really liked this project. I got to be handy, creative and I designed something other an app. I am proud hereof.",
+        "id": "_X1VYWcq3z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "As this project, I hope to apply innovative and out of the box solutions for problems in everyday environments and objects.",
+        "id": "_d0flPdpUW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/game-design.jpeg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1707219841-1587159112/game-design.jpeg",
+            "id": "projects/designing-the-perfect-onboarding-process/game-design.jpeg",
+            "ratio": 1.5009380863039398779079647283651866018772125244140625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_qctok5s7j",
+        "type": "image"
     }
 ]
 
