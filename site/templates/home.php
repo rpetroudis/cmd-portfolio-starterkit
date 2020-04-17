@@ -22,9 +22,9 @@
 <main>
 
 <div class="container-bg">
-      <video loop muted autoplay class="fullscreen-bg_video"> 
-       <source src="/content/placeholder.webm" type="video/webm">
-        <source src="/content/placeholder.mp4" type="video/mp4">
+      <video muted autoplay class="fullscreen-bg_video"> 
+       <source src="/content/video defi.webm" type="video/webm">
+        <source src="/content/Video defi.mp4" type="video/mp4">
       </video>
     <div class="row align-items-center">
       <div class="col-12 col-lg-6">
