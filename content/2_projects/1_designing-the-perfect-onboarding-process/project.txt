@@ -1,20 +1,20 @@
-Title: Game Design, Sophmore Students Rotterdam
+Title: Game Design, Freshman students Rotterdam
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: Usability research & Testing, Interaction design, Ideation
 
 ----
 
-Duration: September 2019 - Januari 2020
+Duration: September 2018 - November 2018
 
 ----
 
-Clients: NRC
+Clients: Rotterdam University of Applied Sciences
 
 ----
 
-Deliverables: Empathymap, Wireframes, Persona's
+Deliverables: Prototypes, models
 
 ----
 
@@ -104,9 +104,9 @@ Text:
     {
         "attrs": {
             "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1587135512/16-9-dummy.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.7777777777777777,
+            "ratio": 1.5009380863039398779079647283651866018772125244140625,
             "caption": "Caption yeah!"
         },
         "content": "",

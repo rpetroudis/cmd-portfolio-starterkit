@@ -1,6 +1,9 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
+<link rel="stylesheet" href="assets/css/costum1.css" type="text/css">
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet"> 
+
 <section class="content blog">
 
   <?php snippet('intro') ?>

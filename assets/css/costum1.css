@@ -5,10 +5,11 @@ h1 {
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Spartan', sans-serif;
 }
 
 .row {
@@ -67,4 +68,16 @@ p {
     z-index: -100;
     background-size: cover;
     overflow: hidden;
+}
+
+.card-title {
+    height: 60px;
+}
+
+.card-text {
+    height: 60px;
+}
+
+.col-lg-4 {
+    padding-bottom: 150px;
 }

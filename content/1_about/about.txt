@@ -1,4 +1,4 @@
-Title: about me
+Title: About me
 
 ----
 
@@ -7,14 +7,62 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
-        "id": "_g1nXSBng0",
+        "content": "For a boy, born and raised on an island such as Cura\u00e7ao, the possibilities of studying something artistic were very limited. That\u2019s why on the age of 20, I embarked to the Netherlands, where I\u2019d study Communications &amp; Multimedia Design for one year and then continue to study Filmmaking. But life had other plans.",
+        "id": "_SoJSlK6cj",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.",
-        "id": "_uRKO7ni0o",
+        "content": "See, I chose CMD because designing apps was something I\u2019ve done it before, without having much knowledge of the subject. But in the first year at Hogeschool Rotterdam, I realised how narrow and naive my view of the study was. As time went by my love grew for experience and interaction design.",
+        "id": "_UUF8SHuwD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I've always been fascinated by the little touchpoint that complete an experience. From the self-scan readers in supermarkets and touchscreens in museums, to the scenic design at attraction parks such as Disney World and Efteling. When I found out that these were a part of multimedia design as well, I've decided that this course is what I truly want to follow.",
+        "id": "_96ijcu1u0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Although the projects we've gotten at school were primarely focused on apps, I've consistantly searched for the windows of opportunities where I could design and make something more grandiose. And these are what I have displayed in My Work.",
+        "id": "_8p9rfaa04",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_th00nzkfw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_5jbqj2ibz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I'm really down to earth, social and I like be productive with other people. I'm very practical and artistic. You can always find me ready to put an idea on a piece of paper. I bloom in an environment where I have the freedom to create and be handy; where I can express myself without any limitations.",
+        "id": "_g519lttmv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "All in hopes of one day having the honor of creating the opening ceremony of the Olympic Games.",
+        "id": "_ej6vopavf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_cja9dz3qg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_dlpp1c6qo",
         "type": "paragraph"
     }
 ]

@@ -1,5 +1,9 @@
 <?php snippet('header') ?>
 
+<link rel="stylesheet" href="assets/css/costum1.css" type="text/css">
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Spartan:wght@300&display=swap" rel="stylesheet">
+
 <main>
   <?php snippet('intro') ?>
   <div class="row" <?= attr(['data-even' => $page->children()->listed()->isEven()], ' ') ?>>
