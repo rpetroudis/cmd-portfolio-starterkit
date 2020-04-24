@@ -18,7 +18,64 @@ Deliverables:
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Each year, hundreds of students from Cura\u00e7ao, get on a plane to come and live here, in The Netherlands. Because Cura\u00e7ao is such a small island, educational courses are limited. Therefore grand majority of high school graduates emigrates abroad. Last year, I was one of these students, together with my brotherr and other friends i know. ",
+        "id": "_m5983h9k4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "After a 9 hour flight we arrived on at Schiphol which we were in turn separated to our designated cities. Once in Rotterdam, we were greeted by the Begeleidingscommissie Rotterdam. A group of students already living here for a few years, and mentors. They were in charge of making our arrival as smooth as possible. In a program lasting 5 days, they guide us in the tasks required to start life here. ",
+        "id": "_6anpcur3g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "They take the students to register at the municipality, help them open a bank account, get insurance, even helping them with the buying of furniture. The week ends with a little party.",
+        "id": "_tg5b4dmx7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_x6gvythyq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Coming from an organizational background (with Scouting), I quickly noticed a lot of aspect that could be done better. That is why I volunteered to join the Organization the following year (2019). I wrote a proposal for a theme for the introduction week, Monopoly. After the proposal was approved by the mentors, I had to convince the other members of the committee, therefore i gave a presentation.",
+        "id": "_yfroxc5fe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "After getting 'the job', I was responsible for branding of the week, location decor, materials, and entertainment. (there may not have been a single moment free in the program. Spaces between the important moments, were filled with activities)",
+        "id": "_j2k2od1y1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ifmsy2yyz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "My brother, a mastermind i'm happy to know, and I, devised a point system, and created different games to play throughout the week. I made sure the games suit the theme.",
+        "id": "_izg5ogpvi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We ended the week with a scavenger hunt monopoly in Rotterdam. With the help of an app, the students were taken to different parts of the city to answer questions. ",
+        "id": "_rinbs9uxh",
+        "type": "paragraph"
+    }
+]
 
 ----
 

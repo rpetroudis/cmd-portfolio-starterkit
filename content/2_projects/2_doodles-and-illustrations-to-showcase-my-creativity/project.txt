@@ -29,7 +29,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Except the additions I made to our product; a remodled app with new features, I focused also on the exposition.",
+        "content": "Except the additions I made to our product; a remodelled app with new features, I focused also on the exposition.",
         "id": "_i7jxnwpn1",
         "type": "paragraph"
     },
