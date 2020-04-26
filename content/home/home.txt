@@ -6,4 +6,8 @@ Introductiontitle: Raydaniël Petroudis
 
 ----
 
-Introductiontext: Come! Take a peak in the crazy, colorful, creative mind that I possess.
+Introductiontext:
+
+Mankind's evolving,<br>
+becoming as the days pass, <br>
+aliens it dreamed of.
