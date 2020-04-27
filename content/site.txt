@@ -4,7 +4,7 @@ Title: Raydaniël Petroudis
 
 Logo:
 
-- new-logo-16.png
+- 01_Official_Logo.png
 
 ----
 

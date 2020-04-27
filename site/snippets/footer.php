@@ -9,15 +9,15 @@
         <ul class="nav">
 
           <li class="nav-item">
-            <a class="nav-link" href="https://www.linkedin.com/in/raydaniel-petroudis-818814137/" target="_blank"> <img src="/content/2_linkedin.png" height="50px" alt="LinkedIn"></a>
+            <a class="nav-link" href="https://www.linkedin.com/in/raydaniel-petroudis-818814137/" target="_blank"> <img src="/content/02_linkedin.png" height="50px" alt="LinkedIn"></a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="https://instagram.com/raydanielpetroudis" target="_blank"> <img src="/content/3_instagram.png" height="50px" alt="Instagram"></a>
+            <a class="nav-link" href="https://instagram.com/raydanielpetroudis" target="_blank"> <img src="/content/03_instagram.png" height="50px" alt="Instagram"></a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="mailto:<?= $site->email() ?>" target="_blank"> <img src="/content/4_gmail.png" height="50px" alt="Gmail"></a>
+            <a class="nav-link" href="mailto:<?= $site->email() ?>" target="_blank"> <img src="/content/04_gmail.png" height="50px" alt="Gmail"></a>
           </li>
         </ul>
       </div>
