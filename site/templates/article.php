@@ -1,6 +1,7 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
+<link rel="stylesheet" href="/assets/css/costum1.css" type="text/css">
 
 <section class="content article">
   <article>

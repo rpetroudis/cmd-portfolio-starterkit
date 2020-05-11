@@ -1,4 +1,4 @@
-Title: Exhibition, Product NRC
+Title: Interactive installation, Expo Product NRC
 
 ----
 
@@ -23,26 +23,20 @@ Text:
 [
     {
         "attrs": [],
-        "content": "For the client and RC we needed to design an attractive user on boarding program that will hook the new clients, this way lowering their cancelation rates.",
+        "content": "For the client NRC we needed to design an attractive user onboarding program that will hook the new clients, this way, lowering their cancelation rates.",
         "id": "_es3HvvUwI",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Except the additions I made to our product; a remodelled app with new features, I focused also on the exposition.",
+        "content": "Except the additions I made to our product; a remodelled app with new features, I focused also on the exposition. Here my target group wasn\u2019t the clients of the NRC but the teachers, students, and NRC. Everyone who would visit the exhibit. During the exposition trial, I realized we had information on different media to showcase. Laptops, phones, posters and flyers. I found it to be too messy. Therefore I wanted to reduce the number of media used, resulting in a more cohesive experience.",
         "id": "_i7jxnwpn1",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Here my target group wasn\u2019t the clients of the NRC but the teachers, students, and NRC. Everyone who would visit the exhibit.",
+        "content": "I started brainstorming for ideas. In pinterest, I searched for art,museum, and exhibition installations. After not too long searching, I came across a form I thought would suit our project; where information was spread out in a grid. Most of these were written on boards of different sizes or projected on a wall. I quickly made a simple moodboard.",
         "id": "_jxR6NEQLY",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "I wanted to have multiple medium work together cohesively. We had our product, our process, persona, all needed to be displayed.",
-        "id": "_Qvc8RWTaG",
         "type": "paragraph"
     },
     {

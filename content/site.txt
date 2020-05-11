@@ -17,7 +17,7 @@ Social:
 - 
   platform: LinkedIn
   url: >
-    https://www.linkedin.com/in/raydaniel-petroudis-818814137/
+    https://www.linkedin.com/in/raydaniel-petroudis/
 - 
   platform: Instagram
   url: https://instagram.com/raydanielpetroudis

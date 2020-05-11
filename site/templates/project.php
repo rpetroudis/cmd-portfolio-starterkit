@@ -1,10 +1,13 @@
 <?php snippet('header') ?>
+
+<link rel="stylesheet" href="/assets/css/costum1.css" type="text/css">
+
 <div class="row border-bottom">
   <div class="col-12">
     <?php snippet('intro') ?>
   </div>
 </div>
-<div class="row">
+<div class="row generalinfo">
   <div class="col-6 col-lg-3 border-bottom">
     <h6>Roles:</h6>
     <?= $page->roles() ?>

@@ -1,3 +1,5 @@
+/* home */
+
 h1 {
     color: #f6991b;
     font-family: 'Permanent Marker', cursive;
@@ -5,7 +7,7 @@ h1 {
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 p {
@@ -29,11 +31,13 @@ p {
 .btn-primary {
     background-color: #41c0cd;
     border-color: #41c0cd;
+    font-family: 'Spartan', sans-serif;
 }
 
 .btn-outline-primary {
     border-color: #41c0cd;
     color: #41c0cd;
+    font-family: 'Spartan', sans-serif;
 }
 
 .btn-primary:hover {
@@ -68,21 +72,54 @@ p {
     background-size: cover;
 }
 
-.card-title {
-    height: 60px;
+
+
+/* header en algemeen */
+
+body {
+    background-color: #f2f2f2;
 }
 
-.card-text {
-    height: 60px;
+/* body {
+    background-image: url("/content/maze-white.png");
+} */
+
+.navbar {
+    background-color: #ffffff;
 }
 
-.col-lg-4 {
-    padding-bottom: 150px;
+.nav-link {
+    font-family: 'Spartan', sans-serif;
 }
+
+.bordertop {
+    border-top: 2px solid #dfdfdf;
+}
+
+.resume{
+    padding-top: 30px;
+    padding-bottom: 39px;
+    font-family: 'Permanent Marker', cursive;
+    color: #41c0cd;
+}
+
+a.download {
+    color: black;
+    font-family: 'Spartan', sans-serif, bold;
+    font-weight: 600;
+}
+
+
+
+/* footer */
 
 footer {
     background-color: white;
    color: black;
+}
+
+.borderbottom {
+    border-bottom: 2px solid #dfdfdf;
 }
 
 #social {
@@ -102,4 +139,88 @@ footer {
 
 .row-two {
     padding-bottom: 10px;
+}
+
+a.copyright {
+    color: black;
+    font-family: 'Questrial', sans-serif;
+}
+
+
+/* projects */
+
+.col-lg-4 {
+    padding-bottom: 40px;
+}
+
+.card.card-cascade.narrower .view.view-cascade {
+    margin-top: -1.25rem;
+    margin-right: 4%;
+    margin-left: 4%;
+}
+
+.card.card-cascade .view.view-cascade {
+    border-radius: 0rem;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+}
+
+.view {
+    position: relative;
+    overflow: hidden;
+    cursor: default;
+}
+
+.card-img-top {
+    border-radius: 0rem;
+}
+
+.card {
+    background-color: white;
+    border: 0px;
+    border-radius: 0rem;
+
+}
+
+a.title {
+    color: black;
+    font-family: 'Questrial', sans-serif;
+}
+
+.card-text {
+    height: 50px;
+}
+
+.card:hover {
+    transition: all 0.2s ease-out;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+    top: -8px;
+    color: #f4d0a4;
+    background-color: #f6991b;
+}
+
+a.title:hover {
+    color: #e57200;
+}
+
+a.read {
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: xx-large;
+    float: right;
+    color: #41c0cd;
+}
+
+/* h2 {
+    padding-top: 25px;
+    padding-bottom: 45px;
+} */
+
+.kaantjefoto {
+    height: 20px;
+    width: 20px;
+}
+
+.generalinfo {
+    background-color: white;
+    font-family: 'Questrial', sans-serif;
+
 }

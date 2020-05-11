@@ -1,4 +1,4 @@
-Title: Game Design, Freshman students Rotterdam
+Title: Kaantje Boord, Freshman students Rotterdam
 
 ----
 
@@ -45,7 +45,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1587156480/16-9-dummy.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
             "ratio": 1.5009380863039398779079647283651866018772125244140625,
-            "caption": "Caption yeah!"
+            "caption": "Caption yeah!",
+            "css": "kaantjefoto"
         },
         "content": "",
         "id": "_u394bdt1a",
@@ -75,7 +76,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/217896243-1587159052/text5.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/text5.jpg",
             "ratio": 1.3333333333333332593184650249895639717578887939453125,
-            "caption": ""
+            "caption": "",
+            "css": "kaantjefoto"
         },
         "content": "",
         "id": "_2lq0vmws4",
@@ -105,7 +107,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4185682931-1587158807/text1.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/text1.jpg",
             "ratio": 0.75,
-            "caption": ""
+            "caption": "",
+            "css": "kaantjefoto"
         },
         "content": "",
         "id": "_nhya2lur8",
@@ -117,7 +120,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3202091299-1587158837/text2.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/text2.jpg",
             "ratio": 0.75,
-            "caption": ""
+            "caption": "",
+            "css": "kaantjefoto"
         },
         "content": "",
         "id": "_xhuo7ccia",
@@ -141,7 +145,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1707219841-1587159112/game-design.jpeg",
             "id": "projects/designing-the-perfect-onboarding-process/game-design.jpeg",
             "ratio": 1.5009380863039398779079647283651866018772125244140625,
-            "caption": ""
+            "caption": "",
+            "css": "kaantjefoto"
         },
         "content": "",
         "id": "_qctok5s7j",

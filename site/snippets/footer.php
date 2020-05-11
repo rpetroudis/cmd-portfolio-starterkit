@@ -1,5 +1,9 @@
+<link rel="stylesheet" href="/assets/css/costum1.css" type="text/css">
+
+</div>
+  
   <footer>
-    <div class="row border-top">
+    <div class="row bordertop">
       <div class="col d-flex justify-content-center">
         <h2 id="social">Feel free to contact me</h2>
       </div>
@@ -9,7 +13,7 @@
         <ul class="nav">
 
           <li class="nav-item">
-            <a class="nav-link" href="https://www.linkedin.com/in/raydaniel-petroudis-818814137/" target="_blank"> <img src="/content/02_linkedin.png" height="50px" alt="LinkedIn"></a>
+            <a class="nav-link" href="https://www.linkedin.com/in/raydaniel-petroudis/" target="_blank"> <img src="/content/02_linkedin.png" height="50px" alt="LinkedIn"></a>
           </li>
 
           <li class="nav-item">
@@ -24,12 +28,12 @@
     </div>
     <div class="row-two">
       <div class="col d-flex justify-content-center">
-        <a href="<?= url() ?>">&copy; <?= $site->title() ?> <?= date('Y') ?></a>
+        <a class='copyright' href="<?= url() ?>">&copy; <?= $site->title() ?> <?= date('Y') ?></a>
       </div>
     </div>
   </footer>
 
-</div>
+
 
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
