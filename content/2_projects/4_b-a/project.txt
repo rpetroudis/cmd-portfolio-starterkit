@@ -18,4 +18,109 @@ Deliverables:
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Bon Ku Ne is a type of bingo played primarily in the Dutch Caribbean and among Dutch Caribbean citizens residing in the Netherlands. Similar to bingo, each participant gets a small sheet but instead of numbres, it is covered with 3 random cards from a Spanish card deck, Baraja Espa\u00f1ola.",
+        "id": "_bvx1vduii",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+b-a/files/screenshot-2020-05-13-at-09.09.12.png",
+            "src": "http://192.168.64.2/media/pages/projects/b-a/1962162091-1589354028/screenshot-2020-05-13-at-09.09.12.png",
+            "id": "projects/b-a/screenshot-2020-05-13-at-09.09.12.png",
+            "ratio": 1.4969097651421507944036193293868564069271087646484375,
+            "caption": "Baraja Espa\u00f1ola"
+        },
+        "content": "",
+        "id": "_262quuqus",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "After shuffling another deck one participant takes card from the top, middle, and bottom respectively and call these out loud. If a card that you have on your sheet gets called, you can mark it off. This usually happens by placing a clothes peg on that particular card. Once all your cards are called, you can scream 'Bon Ku Ne' indicating that you won that round. The winner collects their price which can range from household items, to food, or even money. Thereafter, a new game begins.",
+        "id": "_kruaxlkdj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Games hosted for friends or family, usually are played for money. Each participant pays a small amount of money for each sheet they play with. Usually below one guilder or euro. The money is collected into a pot and the winner wins that while pot. Each person pays again for the next round and so on.",
+        "id": "_au4p57duk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "During the quarantine, I happen to play Bon Ku Ne via zoom. Where you'd pay beforehand for an amount of games, get an image of the sheets you're playing with, and someone would call out the cards. When you have a Bon Ku Ne, there's a control moment to see if it's correct. At the end of the amount of games, you get the money you won.",
+        "id": "_min3pfuhq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+b-a/files/whatsapp-image-2020-04-26-at-17.12.52.jpeg",
+            "src": "http://192.168.64.2/media/pages/projects/b-a/2295891107-1589354056/whatsapp-image-2020-04-26-at-17.12.52.jpeg",
+            "id": "projects/b-a/whatsapp-image-2020-04-26-at-17.12.52.jpeg",
+            "ratio": 1.77580466148723647989982055150903761386871337890625,
+            "caption": "playing sheets"
+        },
+        "content": "",
+        "id": "_i5qwg2cu9",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+b-a/files/screenshot-2020-05-13-at-09.13.03.png",
+            "src": "http://192.168.64.2/media/pages/projects/b-a/74695989-1589354075/screenshot-2020-05-13-at-09.13.03.png",
+            "id": "projects/b-a/screenshot-2020-05-13-at-09.13.03.png",
+            "ratio": 0.89375830013280210817327997574466280639171600341796875,
+            "caption": "My playing sheets, 50 cents per sheet, per round"
+        },
+        "content": "",
+        "id": "_3ny2i2s6t",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+b-a/files/screenshot-2020-05-13-at-09.19.56.png",
+            "src": "http://192.168.64.2/media/pages/projects/b-a/228509502-1589354423/screenshot-2020-05-13-at-09.19.56.png",
+            "id": "projects/b-a/screenshot-2020-05-13-at-09.19.56.png",
+            "ratio": 1.213844252163164494362490586354397237300872802734375,
+            "caption": "Zoom call"
+        },
+        "content": "",
+        "id": "_mkxnc2a5k",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Although the idea was nice, there were some impracticalities. And that is why me and my brother are going to program a plugin, where family and friends can play wherever they are.",
+        "id": "_2xxiu9xbt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+b-a/files/screenshot-2020-05-13-at-09.05.38.png",
+            "src": "http://192.168.64.2/media/pages/projects/b-a/606313294-1589353569/screenshot-2020-05-13-at-09.05.38.png",
+            "id": "projects/b-a/screenshot-2020-05-13-at-09.05.38.png",
+            "ratio": 1.4494680851063830306912905143690295517444610595703125,
+            "caption": "Possible layout for the game"
+        },
+        "content": "",
+        "id": "_cvhgnopos",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+b-a/files/screenshot-2020-05-13-at-09.05.32.png",
+            "src": "http://192.168.64.2/media/pages/projects/b-a/1855161327-1589353597/screenshot-2020-05-13-at-09.05.32.png",
+            "id": "projects/b-a/screenshot-2020-05-13-at-09.05.32.png",
+            "ratio": 1.4450704225352113407865317640244029462337493896484375,
+            "caption": "Possible layout for the game"
+        },
+        "content": "",
+        "id": "_3ntgks5gt",
+        "type": "image"
+    }
+]

@@ -23,20 +23,64 @@ Text:
 [
     {
         "attrs": [],
-        "content": "For this project, we needed to design a game for freshman students of the Hogeschool Rotterdam. It needed to introduce the students to each other, as well as the city Rotterdam.",
-        "id": "_b5cjvmntf",
+        "content": "For this project, we needed to design a game for freshman students of the Hogeschool Rotterdam. It needed to introduce the students to each other, as well as the city Rotterdam. It also needed to contain a digital and a non-digital element.",
+        "id": "_i3i60r77z",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Also it needed to contain a digital and a non-digital aspect/component.",
-        "id": "_0Jq1hE5Kv",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "We chose as target group Maritime Officer student, because Rotterdam is know for it\u2019s harbors. After desk and field reasearch, each team member brainstormed ideas/solution for the game.",
+        "content": "We chose as target group Maritime Officer student, because Rotterdam is known for it\u2019s harbors. After desk and field reasearch, each team member brainstormed ideas for the game. I wanted to do something different. Something unique.",
         "id": "_R5y3UblrV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I knew that students needed to get to know each other, so my idea had to be team-based. They needed to get to know the city as well. This needed to be done quickly; \"videos, that way they can play the game in a room\". With this thought process i created a concept.",
+        "id": "_dg8hh0bcu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/screenshot-2020-05-11-at-17.10.16.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2494523821-1589210502/screenshot-2020-05-11-at-17.10.16.png",
+            "id": "projects/designing-the-perfect-onboarding-process/screenshot-2020-05-11-at-17.10.16.png",
+            "ratio": 0.68472906403940891895132381250732578337192535400390625,
+            "caption": "Primary sketches brainstorm",
+            "css": "kaantjefoto"
+        },
+        "content": "",
+        "id": "_flqr9etmo",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "I have decided to make the game take place in an 360 degrees immersive room with interactive walls, in which teams of 5 get to see informative videos about the city and harbors projected on interactive walls, where 1 team member needs to answer a few questions thereof afterwards (digital element). Correct answers will earn the team time which can be used to move containers from a miniature ship, to the deck. This action is collectively controlled by the 4 remaining students using a hydraulic crane made out of syringes: the non-digital element. I created this illustration to better explain the concept.",
+        "id": "_mN3bz6NhY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/plattegrond.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4131025543-1589210586/plattegrond.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/plattegrond.jpg",
+            "ratio": 1.4131361956212680208722076713456772267818450927734375,
+            "caption": "Map Game Circle",
+            "css": "kaantjefoto"
+        },
+        "content": "",
+        "id": "_fsg66rdn2",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "My team chose this idea because it was the most unique compared to what the others had; some version of a board game.",
+        "id": "_fe0sbjvbp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Together with my fellow students, we refine the concept to a functional game by adding additional features. Containers on deck give you points, but you can also open a container and get a specific code. Typing this code in the wall can lead to advantages for you or other teams. The team decides if they\u2019re willing to take the risk.",
+        "id": "_GEp6fbo6A",
         "type": "paragraph"
     },
     {
@@ -53,31 +97,13 @@ Text:
         "type": "image"
     },
     {
-        "attrs": [],
-        "content": "I have decided to make the game take place in an 360 degrees immersive room with interactive walls, in which teams of 5 get to see a video about the city and harbor projected on the walls, where 1 team member needs to answer questions afterwards. Correct answers will earn the team time which can be used to move containers from a miniature ship, to the deck. This action is collectively controlled by the 4 remaining students using a hydraulic crane made out of syringes: the non-digital component.",
-        "id": "_mN3bz6NhY",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "Containers on deck give you points. But you can also open a container and get a specific code. Typing this code in the wall can lead to advantages for you or other teams. The team decides if they\u2019re willing to take the risk.",
-        "id": "_GEp6fbo6A",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "My team chose this idea because it was the most unique compared to what the others had; some version of a board game.",
-        "id": "_SAOHNBsBh",
-        "type": "paragraph"
-    },
-    {
         "attrs": {
             "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/text5.jpg",
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/217896243-1587159052/text5.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/text5.jpg",
             "ratio": 1.3333333333333332593184650249895639717578887939453125,
-            "caption": "",
-            "css": "kaantjefoto"
+            "css": "kaantjefoto",
+            "caption": "Lowfid Prototype crane"
         },
         "content": "",
         "id": "_2lq0vmws4",
@@ -85,20 +111,55 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I created a low-fid version of the crane to do a usability test. After collecting and analyzing the feedback I created a high fid version of the crane.",
-        "id": "_OivuukNYw",
+        "content": "To execute this concept, I worked primarely on the non-digital element. I created a low-fid version of the crane out of cardboard, syringes and tubes to do a usability test. This crane could only be controlled by 2 people. Another team in our studio were our test subjects in this case. We split the team in 2, and they had to move a cardboard container from point a, to point b. They were judged on speed, and control of the crane. After collecting and analyzing the feedback, we were green lit for a highfid prototype. I drew each part of the crane in Illustrator, and these were laser cut, also on cardboard. This crane had the ability to be controlled by 4 people.",
+        "id": "_3mz70fi98",
         "type": "paragraph"
     },
     {
-        "attrs": [],
-        "content": "Because we could not create an immersive room in the actual size, I designed a setup to showcase a scale model of it. It used three laptops any 360\u00b0 video placed at the right angle on each screen respectively, these, supported by a lasercut frame.",
-        "id": "_m66sp5t8i",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/whatsapp-image-2018-10-31-at-13.22.17.jpeg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/278319573-1589210830/whatsapp-image-2018-10-31-at-13.22.17.jpeg",
+            "id": "projects/designing-the-perfect-onboarding-process/whatsapp-image-2018-10-31-at-13.22.17.jpeg",
+            "ratio": 0.5625,
+            "caption": "Highfid prototype crane",
+            "css": "kaantjefoto"
+        },
         "content": "",
-        "id": "_kvnkdeemv",
+        "id": "_yievo4tnk",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "src": "https://youtu.be/SOWLSzT9FyU",
+            "caption": "Crane Expo Trial"
+        },
+        "content": "",
+        "id": "_ewqfcpry1",
+        "type": "video"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1869796609-1589210922/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
+            "id": "projects/designing-the-perfect-onboarding-process/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
+            "ratio": 1.499267935578330934731638990342617034912109375,
+            "caption": "Priming teachers for the game",
+            "css": "kaantjefoto"
+        },
+        "content": "",
+        "id": "_t3k5cbi7v",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Immersive room",
+        "id": "_yl2t8clnp",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Because we could not create an immersive room in the actual size, I designed a setup to showcase a scale model of it. I designed a setup that would use three laptops and 360\u00b0 video placed at the right angle on each screen respectively. This way we could illustrate better what the actual room would look like.",
+        "id": "_m66sp5t8i",
         "type": "paragraph"
     },
     {
@@ -107,8 +168,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4185682931-1587158807/text1.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/text1.jpg",
             "ratio": 0.75,
-            "caption": "",
-            "css": "kaantjefoto"
+            "css": "kaantjefoto",
+            "caption": "Immersive model frame"
         },
         "content": "",
         "id": "_nhya2lur8",
@@ -120,8 +181,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3202091299-1587158837/text2.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/text2.jpg",
             "ratio": 0.75,
-            "caption": "",
-            "css": "kaantjefoto"
+            "css": "kaantjefoto",
+            "caption": "Immersive model frame"
         },
         "content": "",
         "id": "_xhuo7ccia",
@@ -129,14 +190,8 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I really liked this project. I got to be handy, creative and I designed something other an app. I am proud hereof.",
-        "id": "_X1VYWcq3z",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "As this project, I hope to apply innovative and out of the box solutions for problems in everyday environments and objects.",
-        "id": "_d0flPdpUW",
+        "content": "I really liked this project. I got to work with my hands, being creative and I designed something other an app. I am very proud of that. As this project, I hope to apply innovative and out of the box solutions for problems in everyday environments and objects.",
+        "id": "_1jcu8b4di",
         "type": "paragraph"
     },
     {
@@ -145,8 +200,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1707219841-1587159112/game-design.jpeg",
             "id": "projects/designing-the-perfect-onboarding-process/game-design.jpeg",
             "ratio": 1.5009380863039398779079647283651866018772125244140625,
-            "caption": "",
-            "css": "kaantjefoto"
+            "css": "kaantjefoto",
+            "caption": "Immersive model"
         },
         "content": "",
         "id": "_qctok5s7j",

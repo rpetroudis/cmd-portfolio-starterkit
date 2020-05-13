@@ -23,13 +23,13 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Each year, hundreds of students from Cura\u00e7ao, get on a plane to come and live here, in The Netherlands. Because Cura\u00e7ao is such a small island, educational courses are limited. Therefore grand majority of high school graduates emigrates abroad. Last year, I was one of these students, together with my brotherr and other friends i know. ",
+        "content": "Each year, hundreds of students from Cura\u00e7ao, get on a plane to come and live here, in The Netherlands. Because Cura\u00e7ao is such a small island, educational courses are limited. Therefore grand majority of high school graduates emigrates abroad. Last year, I was one of these students, together with my brotherr and other friends i know.",
         "id": "_m5983h9k4",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "After a 9 hour flight we arrived on at Schiphol which we were in turn separated to our designated cities. Once in Rotterdam, we were greeted by the Begeleidingscommissie Rotterdam. A group of students already living here for a few years, and mentors. They were in charge of making our arrival as smooth as possible. In a program lasting 5 days, they guide us in the tasks required to start life here. ",
+        "content": "After a 9 hour flight we arrived on at Schiphol which we were in turn separated to our designated cities. Once in Rotterdam, we were greeted by the Begeleidingscommissie Rotterdam. A group of students already living here for a few years, and mentors. They were in charge of making our arrival as smooth as possible. In a program lasting 5 days, they guide us in the tasks required to start life here.",
         "id": "_6anpcur3g",
         "type": "paragraph"
     },
@@ -41,39 +41,63 @@ Text:
     },
     {
         "attrs": [],
+        "content": "Coming from an organizational background (with Scouting), I quickly noticed a lot of aspect that could be done better. That is why I volunteered to join the organization the following year (2019). I wrote a proposal for a theme for the introduction week, Monopoly. I chose Monopoly, because you can get valuable life lessons out of the game. Three core aspects I thought would be of value for the students (based on experiences of freshmen students of my year, and myself) were; Communication, Strategy and Budgeting.",
+        "id": "_b0c4mnxw5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "After the proposal was approved by the mentors, I had to convince the other members of the committee, therefore I had to give a presentation, which went succesfully. By getting 'the job', I was responsible for branding material of the week, location decor, materials, and entertainment. (there may not have been a single moment free in the program. Spaces between the important moments, were filled with activities).",
+        "id": "_exvzq3mex",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/screenshot-2020-05-13-at-08.34.50.png",
+            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/4137930761-1589351800/screenshot-2020-05-13-at-08.34.50.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/screenshot-2020-05-13-at-08.34.50.png",
+            "ratio": 1.7153558052434456637769244480296038091182708740234375,
+            "caption": "Students exectuing the different activities"
+        },
         "content": "",
-        "id": "_x6gvythyq",
-        "type": "paragraph"
+        "id": "_jlpamkgol",
+        "type": "image"
     },
     {
         "attrs": [],
-        "content": "Coming from an organizational background (with Scouting), I quickly noticed a lot of aspect that could be done better. That is why I volunteered to join the Organization the following year (2019). I wrote a proposal for a theme for the introduction week, Monopoly. After the proposal was approved by the mentors, I had to convince the other members of the committee, therefore i gave a presentation.",
-        "id": "_yfroxc5fe",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "After getting 'the job', I was responsible for branding of the week, location decor, materials, and entertainment. (there may not have been a single moment free in the program. Spaces between the important moments, were filled with activities)",
-        "id": "_j2k2od1y1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_ifmsy2yyz",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "My brother, a mastermind i'm happy to know, and I, devised a point system, and created different games to play throughout the week. I made sure the games suit the theme.",
+        "content": "My brother, a mastermind i'm happy to know, and I, devised a point system, and created different activities that would be executed throughout the week. I had to make sure that we had activities that would cover different time frames, were teambased, and of course, that would target the main core aspects of the theme.",
         "id": "_izg5ogpvi",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "We ended the week with a scavenger hunt monopoly in Rotterdam. With the help of an app, the students were taken to different parts of the city to answer questions. ",
+        "content": "We ended the week with a scavenger hunt theme Monopoly in Rotterdam. With the help of the app 'Actionbound', the student teams were taken to different parts of the city in pursuit of becoming the winning team.",
         "id": "_rinbs9uxh",
         "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/screenshot-2020-05-13-at-08.40.09.png",
+            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/1263878392-1589352203/screenshot-2020-05-13-at-08.40.09.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/screenshot-2020-05-13-at-08.40.09.png",
+            "ratio": 1.9399707174231333173253233326249755918979644775390625,
+            "caption": "1st version of the Monopoly scavenger hunt, played in Cura\u00e7ao"
+        },
+        "content": "",
+        "id": "_efthxdebe",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/screenshot-2020-05-13-at-08.42.28.png",
+            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/2044251966-1589352227/screenshot-2020-05-13-at-08.42.28.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/screenshot-2020-05-13-at-08.42.28.png",
+            "ratio": 2.597069597069597168825794142321683466434478759765625,
+            "caption": "Questions scavenger hunt"
+        },
+        "content": "",
+        "id": "_gccae82hq",
+        "type": "image"
     }
 ]
 

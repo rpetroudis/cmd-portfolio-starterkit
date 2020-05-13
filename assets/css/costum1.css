@@ -214,9 +214,10 @@ a.read {
     padding-bottom: 45px;
 } */
 
-.kaantjefoto {
-    height: 20px;
-    width: 20px;
+.kaantjefoto img{
+    /* height: 100px; */
+    width: 50%;
+
 }
 
 .generalinfo {
