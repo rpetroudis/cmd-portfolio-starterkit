@@ -214,14 +214,35 @@ a.read {
     padding-bottom: 45px;
 } */
 
-.kaantjefoto img{
-    /* height: 100px; */
-    width: 50%;
-
-}
-
 .generalinfo {
     background-color: white;
     font-family: 'Questrial', sans-serif;
+}
 
+.col-12 {
+    font-family: 'Spartan', sans-serif;
+}
+
+/* Kaantje boord */
+
+.kaantjefoto img{
+    width: 50%;
+}
+
+/* NRC */
+
+.NRCfoto img{
+    width: 50%;
+}
+
+/* Introweek */
+
+.Introweekfoto img{
+    width: 50%;
+}
+
+/* Bon ku ne */
+
+.Bonkunefoto img{
+    width: 50%;
 }

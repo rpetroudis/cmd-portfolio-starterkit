@@ -57,7 +57,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/4137930761-1589351800/screenshot-2020-05-13-at-08.34.50.png",
             "id": "projects/introducing-gamification-into-a-newsplatform/screenshot-2020-05-13-at-08.34.50.png",
             "ratio": 1.7153558052434456637769244480296038091182708740234375,
-            "caption": "Students exectuing the different activities"
+            "caption": "Students exectuing the different activities",
+            "css": "Introweekfoto"
         },
         "content": "",
         "id": "_jlpamkgol",
@@ -81,7 +82,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/1263878392-1589352203/screenshot-2020-05-13-at-08.40.09.png",
             "id": "projects/introducing-gamification-into-a-newsplatform/screenshot-2020-05-13-at-08.40.09.png",
             "ratio": 1.9399707174231333173253233326249755918979644775390625,
-            "caption": "1st version of the Monopoly scavenger hunt, played in Cura\u00e7ao"
+            "caption": "1st version of the Monopoly scavenger hunt, played in Cura\u00e7ao",
+            "css": "Introweekfoto"
         },
         "content": "",
         "id": "_efthxdebe",
@@ -93,7 +95,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/2044251966-1589352227/screenshot-2020-05-13-at-08.42.28.png",
             "id": "projects/introducing-gamification-into-a-newsplatform/screenshot-2020-05-13-at-08.42.28.png",
             "ratio": 2.597069597069597168825794142321683466434478759765625,
-            "caption": "Questions scavenger hunt"
+            "caption": "Questions scavenger hunt",
+            "css": "Introweekfoto"
         },
         "content": "",
         "id": "_gccae82hq",

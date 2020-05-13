@@ -45,7 +45,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2950784025-1589206540/screenshot-2020-05-11-at-16.15.11.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-05-11-at-16.15.11.png",
             "ratio": 1.728426395939086201991585767245851457118988037109375,
-            "caption": "Moodboard"
+            "caption": "Moodboard",
+            "css": "NRCfoto"
         },
         "content": "",
         "id": "_skd27kxhh",
@@ -63,7 +64,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1993327590-1587159343/screenshot-2020-04-17-at-23.34.36.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.34.36.png",
             "ratio": 1.334905660377358582735496383975259959697723388671875,
-            "caption": "Possible layout"
+            "caption": "Possible layout",
+            "css": "NRCfoto"
         },
         "content": "",
         "id": "_hso167fvy",
@@ -75,7 +77,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/513399267-1589201799/final-sketch1.jpg",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/final-sketch1.jpg",
             "ratio": 1.134596211365902274081918221781961619853973388671875,
-            "caption": "Final sketch"
+            "caption": "Final sketch",
+            "css": "NRCfoto"
         },
         "content": "",
         "id": "_n2xhpl0dw",
@@ -93,7 +96,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/285909054-1587159357/screenshot-2020-04-17-at-23.34.44.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.34.44.png",
             "ratio": 1.969072164948453718125165323726832866668701171875,
-            "caption": "Digitalized sketch"
+            "caption": "Digitalized sketch",
+            "css": "NRCfoto"
         },
         "content": "",
         "id": "_8upp1iew3",
@@ -105,7 +109,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/313982187-1587159375/screenshot-2020-04-17-at-23.34.51.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.34.51.png",
             "ratio": 1.3333333333333332593184650249895639717578887939453125,
-            "caption": "Low fid prototype"
+            "caption": "Low fid prototype",
+            "css": "NRCfoto"
         },
         "content": "",
         "id": "_ayk75d7an",
@@ -123,7 +128,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2396089798-1587159403/screenshot-2020-04-17-at-23.35.01.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.35.01.png",
             "ratio": 1.6017699115044248259209780371747910976409912109375,
-            "caption": "Getting to know our app"
+            "caption": "Getting to know our app",
+            "css": "NRCfoto"
         },
         "content": "",
         "id": "_zde46i9bk",
@@ -135,7 +141,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3198232071-1587159416/screenshot-2020-04-17-at-23.35.09.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.35.09.png",
             "ratio": 1.6028368794326242063874587984173558652400970458984375,
-            "caption": "Meeting our persona"
+            "caption": "Meeting our persona",
+            "css": "NRCfoto"
         },
         "content": "",
         "id": "_irg9c9u87",
@@ -162,7 +169,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/4155335283-1587159430/screenshot-2020-04-17-at-23.35.16.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-23.35.16.png",
             "ratio": 1.3357015985790408052480415790341794490814208984375,
-            "caption": "Final product"
+            "caption": "Final product",
+            "css": "NRCfoto"
         },
         "content": "",
         "id": "_65hvp4iao",

@@ -33,7 +33,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/b-a/1962162091-1589354028/screenshot-2020-05-13-at-09.09.12.png",
             "id": "projects/b-a/screenshot-2020-05-13-at-09.09.12.png",
             "ratio": 1.4969097651421507944036193293868564069271087646484375,
-            "caption": "Baraja Espa\u00f1ola"
+            "caption": "Baraja Espa\u00f1ola",
+            "css": "Bonkunefoto"
         },
         "content": "",
         "id": "_262quuqus",
@@ -63,7 +64,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/b-a/2295891107-1589354056/whatsapp-image-2020-04-26-at-17.12.52.jpeg",
             "id": "projects/b-a/whatsapp-image-2020-04-26-at-17.12.52.jpeg",
             "ratio": 1.77580466148723647989982055150903761386871337890625,
-            "caption": "playing sheets"
+            "caption": "playing sheets",
+            "css": "Bonkunefoto"
         },
         "content": "",
         "id": "_i5qwg2cu9",
@@ -75,7 +77,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/b-a/74695989-1589354075/screenshot-2020-05-13-at-09.13.03.png",
             "id": "projects/b-a/screenshot-2020-05-13-at-09.13.03.png",
             "ratio": 0.89375830013280210817327997574466280639171600341796875,
-            "caption": "My playing sheets, 50 cents per sheet, per round"
+            "caption": "My playing sheets, 50 cents per sheet, per round",
+            "css": "Bonkunefoto"
         },
         "content": "",
         "id": "_3ny2i2s6t",
@@ -87,7 +90,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/b-a/228509502-1589354423/screenshot-2020-05-13-at-09.19.56.png",
             "id": "projects/b-a/screenshot-2020-05-13-at-09.19.56.png",
             "ratio": 1.213844252163164494362490586354397237300872802734375,
-            "caption": "Zoom call"
+            "caption": "Zoom call",
+            "css": "Bonkunefoto"
         },
         "content": "",
         "id": "_mkxnc2a5k",
@@ -105,7 +109,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/b-a/606313294-1589353569/screenshot-2020-05-13-at-09.05.38.png",
             "id": "projects/b-a/screenshot-2020-05-13-at-09.05.38.png",
             "ratio": 1.4494680851063830306912905143690295517444610595703125,
-            "caption": "Possible layout for the game"
+            "caption": "Possible layout for the game",
+            "css": "Bonkunefoto"
         },
         "content": "",
         "id": "_cvhgnopos",
@@ -117,7 +122,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/b-a/1855161327-1589353597/screenshot-2020-05-13-at-09.05.32.png",
             "id": "projects/b-a/screenshot-2020-05-13-at-09.05.32.png",
             "ratio": 1.4450704225352113407865317640244029462337493896484375,
-            "caption": "Possible layout for the game"
+            "caption": "Possible layout for the game",
+            "css": "Bonkunefoto"
         },
         "content": "",
         "id": "_3ntgks5gt",
