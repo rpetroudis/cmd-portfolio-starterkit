@@ -11,7 +11,6 @@
   <?php snippet('intro') ?>
   <div class="row" <?= attr(['data-even' => $page->children()->listed()->isEven()], ' ') ?>>
     <?php foreach ($page->children()->listed()->paginate(9) as $project): ?>
-
       <div class="col-12 col-lg-4">
         <div class="card card-cascade narrower">
           <div class="view view-cascade overlay">
@@ -24,7 +23,6 @@
           </div>
         </div>
       </div>
-
     <?php endforeach ?>
   </div>
 </main>

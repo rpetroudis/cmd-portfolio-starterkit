@@ -6,12 +6,18 @@ h1 {
     text-align: left;
     padding-left: 0px;
     padding-right: 0px;
-    padding-top: 20px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 p {
     font-family: 'Spartan', sans-serif;
+    padding-bottom: 20px;
+    color: black;
+}
+
+.lead {
+    color: white;
 }
 
 .row {
@@ -98,7 +104,7 @@ body {
 
 .resume{
     padding-top: 30px;
-    padding-bottom: 39px;
+    padding-bottom: 30px;
     font-family: 'Permanent Marker', cursive;
     color: #41c0cd;
 }
@@ -145,6 +151,7 @@ a.copyright {
     color: black;
     font-family: 'Questrial', sans-serif;
 }
+
 
 
 /* projects */
@@ -209,6 +216,10 @@ a.read {
     color: #41c0cd;
 }
 
+a.read:hover {
+    color: #096d82;
+}
+
 /* h2 {
     padding-top: 25px;
     padding-bottom: 45px;
@@ -217,32 +228,292 @@ a.read {
 .generalinfo {
     background-color: white;
     font-family: 'Questrial', sans-serif;
+    margin-bottom: 30px;
+    padding-top: 10px;
+}
+
+h6 {
+    font-family: 'Questrial', sans-serif;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+figcaption {
+    font-family: 'Questrial', sans-serif;
+    font-size: small;
+    font-weight: 600;
+    text-align: center;
 }
 
 .col-12 {
     font-family: 'Spartan', sans-serif;
 }
 
+.work {
+    font-family: 'Permanent Marker', cursive;
+    padding-bottom: 30px;
+}
+
+.all {
+    padding-top: 12px;
+    color: #41c0cd;
+}
+
+a.all:hover {
+    color: #096d82;
+}
+
+.more {
+    margin-top: 50px;
+}
+
+
+
 /* Kaantje boord */
 
-.kaantjefoto img{
-    width: 50%;
+.kaantjefoto1 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
+
+.kaantjefoto2 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kaantjefoto3 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kaantjefoto4 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kaantjefoto5 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kaantjefoto6 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kaantjefoto7 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kaantjefoto8 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
 
 /* NRC */
 
-.NRCfoto img{
+.NRCfoto1 img {
     width: 50%;
+    position: relative;
+    float: right;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 30px;
 }
+
+.NRCfoto2 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.NRCfoto3 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.NRCfoto4 img {
+    width: 100%;
+    position: relative;
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+iframe {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 75%;
+    height: 460px;
+    position: relative;
+    margin-left: 12.5%;
+}
+
+.NRCfoto6 img {
+    width: 100%;
+}
+
+
 
 /* Introweek */
 
-.Introweekfoto img{
-    width: 50%;
+.Introweekfoto1 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
+
+.Introweekfoto2 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Introweekfoto3 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
 
 /* Bon ku ne */
 
-.Bonkunefoto img{
+.Bonkunefoto1 img {
     width: 50%;
+    position: relative;
+    float: right;
+    margin-left: 30px;
+}
+
+.Bonkunefoto2 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Bonkunefoto3 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Bonkunefoto4 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: large;
+    font-family: 'Questrial', sans-serif;
+    font-weight: 600;
+    color: black;
+}
+
+/* articles */
+
+.card1:hover {
+    background-color: #41c0cd;
+}
+
+.artic {
+    font-family: 'Questrial', sans-serif;
+    color: black;
+}
+
+.artic:hover {
+    font-family: 'Questrial', sans-serif;
+    color: #096d82;
+}
+
+.continue {
+    font-family: 'Spartan', sans-serif;
+    float: right;
+    color: #f6991b;
+}
+
+.continue:hover {
+    color: #e57200;
+}
+
+.new h1 {
+    color: #41c0cd;
+}
+
+.back {
+    color: #41c0cd;
+    font-family: 'Questrial', sans-serif;
+    font-weight: 600;
+    font-size: larger;
+}
+
+.back:hover {
+    color: #096d82;
+}
+
+.more-articles {
+    font-family: 'Permanent Marker', cursive;
+    padding-bottom: 30px;
+}
+
+.all-articles {
+    padding-top: 12px;
+    color: #f6991b;
+}
+
+.all-articles:hover {
+    color: #e57200;
+}
+
+/* data cells */
+
+.datacellfoto1 img {
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 25%;
+}
+
+.datacellfoto2 img {
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 25%;
+}
+
+.datacellfoto3 img {
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 25%;
+}
+
+.datacellfoto4 img {
+    width: 75%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 12.5%;
+}
+
+.datacellfoto5 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li {
+    font-family: 'Spartan', sans-serif;
 }

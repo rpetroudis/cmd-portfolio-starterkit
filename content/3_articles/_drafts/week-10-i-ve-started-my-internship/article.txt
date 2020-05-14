@@ -1,0 +1,28 @@
+Title: Reflectie Portfolio Bouwen
+
+----
+
+Date: 2019-11-06
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "I found this course to be extremely rewarding. After doing my HTML/CSS course, I applied here, i hopes of building my own portfolio. From scratch.",
+        "id": "_8tmsj704i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It was complicated in the beginning, but with the help and patience of my amazing teachers, I think i accomplished something really nice. <br>I hope you think the same.",
+        "id": "_goq88ligf",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Thumbnail: 

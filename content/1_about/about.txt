@@ -19,38 +19,32 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I've always been fascinated by the little touchpoint that complete an experience. From the self-scan readers in supermarkets and touchscreens in museums, to the scenic design at attraction parks such as Disney World and Efteling. When I found out that these were a part of multimedia design as well, I've decided that this course is what I truly want to follow.",
+        "content": "I've always been fascinated by the little touchpoint that complete an experience. From the self-scan readers in supermarkets and touchscreens in museums, to the scenic design at attraction parks such as Disney World and Universal Studios. When I found out that these were a part of multimedia design as well, I've decided that this course is what I truly want to follow.",
         "id": "_96ijcu1u0",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Although the projects we've gotten at school were primarely focused on apps, I've consistantly searched for the windows of opportunities where I could design and make something more grandiose. And these are what I have displayed in My Work.",
+        "content": "Although the projects we've gotten at school were primarely focused on apps, I've consistantly searched for the windows of opportunities where I could design and make something more grandiose. And some of these are what I have displayed in My Work.",
         "id": "_8p9rfaa04",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": ".",
+        "content": "I take pride in my ability to think outside of the box and come up with great ideas, visualizing these ideas, and my fine motor skills. I'm very practical and artistic. You will see me bloom in an environment where I have the freedom to create and be handy; where I can express myself without any limitations.",
         "id": "_th00nzkfw",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": ".",
+        "content": "However, one also has his less proud aspects. I tend to get annoyed when an idea isn't finding a way towards reality. Also, my willingness to do things perfectly has been the reason I haven't achieved certain set goals, yet. But, I am embracing these little flaws and allowing myself to fail, and learn.",
         "id": "_5jbqj2ibz",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "I'm really down to earth, social and I like be productive with other people. I'm very practical and artistic. You can always find me ready to put an idea on a piece of paper. I bloom in an environment where I have the freedom to create and be handy; where I can express myself without any limitations.",
-        "id": "_g519lttmv",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "All in hopes of one day having the honor of creating the opening ceremony of the Olympic Games.",
-        "id": "_ej6vopavf",
+        "content": "But me? I'm really down to earth, super social and I like be productive with other people. A good laugh is always neighbouring when I am around. I want to experience and learn as much as I can, all in hopes of one day having the honor of creating the opening ceremony of the Olympic Games.",
+        "id": "_6mgc7cw29",
         "type": "paragraph"
     },
     {

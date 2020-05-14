@@ -34,19 +34,13 @@ Text:
         "type": "paragraph"
     },
     {
-        "attrs": [],
-        "content": "I knew that students needed to get to know each other, so my idea had to be team-based. They needed to get to know the city as well. This needed to be done quickly; \"videos, that way they can play the game in a room\". With this thought process i created a concept.",
-        "id": "_dg8hh0bcu",
-        "type": "paragraph"
-    },
-    {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/screenshot-2020-05-11-at-17.10.16.png",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2494523821-1589210502/screenshot-2020-05-11-at-17.10.16.png",
-            "id": "projects/designing-the-perfect-onboarding-process/screenshot-2020-05-11-at-17.10.16.png",
-            "ratio": 0.68472906403940891895132381250732578337192535400390625,
-            "caption": "Primary sketches brainstorm",
-            "css": "kaantjefoto"
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/kaantjeboordpicsnew-05.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3207612594-1589387452/kaantjeboordpicsnew-05.png",
+            "id": "projects/designing-the-perfect-onboarding-process/kaantjeboordpicsnew-05.png",
+            "ratio": 2.067811773125782792703830637037754058837890625,
+            "caption": "",
+            "css": "kaantjefoto1"
         },
         "content": "",
         "id": "_flqr9etmo",
@@ -54,27 +48,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I have decided to make the game take place in an 360 degrees immersive room with interactive walls, in which teams of 5 get to see informative videos about the city and harbors projected on interactive walls, where 1 team member needs to answer a few questions thereof afterwards (digital element). Correct answers will earn the team time which can be used to move containers from a miniature ship, to the deck. This action is collectively controlled by the 4 remaining students using a hydraulic crane made out of syringes: the non-digital element. I created this illustration to better explain the concept.",
-        "id": "_mN3bz6NhY",
+        "content": "I knew that students needed to get to know each other, so my idea had to be team-based. They needed to get to know the city as well. This needed to be done quickly; \"videos, that way they can play the game in a room\". With this thought process i created a concept.",
+        "id": "_dg8hh0bcu",
         "type": "paragraph"
     },
     {
-        "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/plattegrond.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4131025543-1589210586/plattegrond.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/plattegrond.jpg",
-            "ratio": 1.4131361956212680208722076713456772267818450927734375,
-            "caption": "Map Game Circle",
-            "css": "kaantjefoto"
-        },
-        "content": "",
-        "id": "_fsg66rdn2",
-        "type": "image"
-    },
-    {
         "attrs": [],
-        "content": "My team chose this idea because it was the most unique compared to what the others had; some version of a board game.",
-        "id": "_fe0sbjvbp",
+        "content": "I have decided to make the game take place in an 360 degrees immersive room with interactive walls, in which teams of 5 get to see informative videos about the city and harbors projected on interactive walls, where 1 team member needs to answer a few questions thereof afterwards (digital element). Correct answers will earn the team time which can be used to move containers from a miniature ship, to the deck. This action is collectively controlled by the 4 remaining students using a hydraulic crane made out of syringes: the non-digital element. I created the map to better explain the concept. My team chose this idea because it was the most unique compared to what the others had; some version of a board game.",
+        "id": "_fzl0djnun",
         "type": "paragraph"
     },
     {
@@ -85,25 +66,12 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1587156480/16-9-dummy.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.5009380863039398779079647283651866018772125244140625,
-            "caption": "Caption yeah!",
-            "css": "kaantjefoto"
-        },
-        "content": "",
-        "id": "_u394bdt1a",
-        "type": "image"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/text5.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/217896243-1587159052/text5.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/text5.jpg",
-            "ratio": 1.3333333333333332593184650249895639717578887939453125,
-            "css": "kaantjefoto",
-            "caption": "Lowfid Prototype crane"
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/kaantjeboordpicsnew-06.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4170199650-1589387482/kaantjeboordpicsnew-06.png",
+            "id": "projects/designing-the-perfect-onboarding-process/kaantjeboordpicsnew-06.png",
+            "ratio": 1.66671473896740707232311251573264598846435546875,
+            "caption": "",
+            "css": "kaantjefoto2"
         },
         "content": "",
         "id": "_2lq0vmws4",
@@ -117,44 +85,26 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/whatsapp-image-2018-10-31-at-13.22.17.jpeg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/278319573-1589210830/whatsapp-image-2018-10-31-at-13.22.17.jpeg",
-            "id": "projects/designing-the-perfect-onboarding-process/whatsapp-image-2018-10-31-at-13.22.17.jpeg",
-            "ratio": 0.5625,
-            "caption": "Highfid prototype crane",
-            "css": "kaantjefoto"
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1587156480/16-9-dummy.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
+            "ratio": 1.5009380863039398779079647283651866018772125244140625,
+            "css": "kaantjefoto3",
+            "caption": ""
         },
         "content": "",
-        "id": "_yievo4tnk",
+        "id": "_u394bdt1a",
         "type": "image"
     },
     {
         "attrs": {
             "src": "https://youtu.be/SOWLSzT9FyU",
-            "caption": "Crane Expo Trial"
+            "caption": "",
+            "css": "kaantjefoto4"
         },
         "content": "",
         "id": "_ewqfcpry1",
         "type": "video"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1869796609-1589210922/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
-            "id": "projects/designing-the-perfect-onboarding-process/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
-            "ratio": 1.499267935578330934731638990342617034912109375,
-            "caption": "Priming teachers for the game",
-            "css": "kaantjefoto"
-        },
-        "content": "",
-        "id": "_t3k5cbi7v",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "Immersive room",
-        "id": "_yl2t8clnp",
-        "type": "h3"
     },
     {
         "attrs": [],
@@ -164,12 +114,12 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/text1.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/4185682931-1587158807/text1.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/text1.jpg",
-            "ratio": 0.75,
-            "css": "kaantjefoto",
-            "caption": "Immersive model frame"
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/kaantjeboordpicsnew-07.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3320847314-1589387510/kaantjeboordpicsnew-07.png",
+            "id": "projects/designing-the-perfect-onboarding-process/kaantjeboordpicsnew-07.png",
+            "ratio": 1.8086071987480438760798051589517854154109954833984375,
+            "caption": "",
+            "css": "kaantjefoto7"
         },
         "content": "",
         "id": "_nhya2lur8",
@@ -177,15 +127,15 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/text2.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3202091299-1587158837/text2.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/text2.jpg",
-            "ratio": 0.75,
-            "css": "kaantjefoto",
-            "caption": "Immersive model frame"
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/game-design.jpeg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1707219841-1587159112/game-design.jpeg",
+            "id": "projects/designing-the-perfect-onboarding-process/game-design.jpeg",
+            "ratio": 1.5009380863039398779079647283651866018772125244140625,
+            "css": "kaantjefoto8",
+            "caption": ""
         },
         "content": "",
-        "id": "_xhuo7ccia",
+        "id": "_qctok5s7j",
         "type": "image"
     },
     {
@@ -196,15 +146,15 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/game-design.jpeg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1707219841-1587159112/game-design.jpeg",
-            "id": "projects/designing-the-perfect-onboarding-process/game-design.jpeg",
-            "ratio": 1.5009380863039398779079647283651866018772125244140625,
-            "css": "kaantjefoto",
-            "caption": "Immersive model"
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1869796609-1589210922/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
+            "id": "projects/designing-the-perfect-onboarding-process/whatsapp-image-2018-11-03-at-14.35.55.jpeg",
+            "ratio": 1.499267935578330934731638990342617034912109375,
+            "css": "kaantjefoto5",
+            "caption": ""
         },
         "content": "",
-        "id": "_qctok5s7j",
+        "id": "_t3k5cbi7v",
         "type": "image"
     }
 ]

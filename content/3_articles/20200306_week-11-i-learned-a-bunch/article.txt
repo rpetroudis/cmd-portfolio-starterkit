@@ -1,0 +1,151 @@
+Title: Data Cells
+
+----
+
+Date: 2020-03-06
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "For my current project, I needed to research the eating pattern of students of the Erasmus University. To do this, I designed a research method; 'Data Cells', inspired by the information designers Giorgia Lupi and Stefanie Posave. This method use cells (a big square, with a smaller square inside it) to gather data. This can be done by using colors or patterns as variables, to fill in the different cells. For this research, I used colored markers.",
+        "id": "_5quuqby1y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How to use the method?",
+        "id": "_lhk50igag",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "To start, you will need a grid with cells. Each cell represents one answer to your research question or task. Together with your grid, you will need a legend, indicating what each color or pattern stands for. Depending on the answer, the cell will be filled accordingly.",
+        "id": "_kylvtiy6r",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-11-i-learned-a-bunch/files/screenshot-2020-05-14-at-00.15.50.png",
+            "src": "http://192.168.64.2/media/pages/articles/week-11-i-learned-a-bunch/2393793823-1589408195/screenshot-2020-05-14-at-00.15.50.png",
+            "id": "articles/week-11-i-learned-a-bunch/screenshot-2020-05-14-at-00.15.50.png",
+            "ratio": 7.68131868131868156268637903849594295024871826171875,
+            "caption": "Example of variables",
+            "css": "datacellfoto1"
+        },
+        "content": "",
+        "id": "_pozranrfj",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "To gather more data, you can edit the grid, by dividing it into different sections related to your research.",
+        "id": "_jqf8l4w77",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-11-i-learned-a-bunch/files/screenshot-2020-05-14-at-00.16.01.png",
+            "src": "http://192.168.64.2/media/pages/articles/week-11-i-learned-a-bunch/1837947647-1589408221/screenshot-2020-05-14-at-00.16.01.png",
+            "id": "articles/week-11-i-learned-a-bunch/screenshot-2020-05-14-at-00.16.01.png",
+            "ratio": 1.313253012048192669425361600588075816631317138671875,
+            "caption": "",
+            "css": "datacellfoto2"
+        },
+        "content": "",
+        "id": "_chs1jxnpa",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Together with a teammate, Julliette van Stempvoort, we carried out this research. For us, it was interesting to know",
+        "id": "_s0cdfwj2s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How many times (on average) per day each student eats,",
+        "id": "_73pl8ttow",
+        "type": "ol"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "If the meal is home cooked, store bought, ordered etc.,",
+        "id": "_bdcgh01j2",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "And which diet the student has.",
+        "id": "_w5z9jgikn",
+        "type": "ol"
+    },
+    {
+        "attrs": [],
+        "content": "We split our grid and added the following variables.",
+        "id": "_p4ntfi01f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-11-i-learned-a-bunch/files/screenshot-2020-05-14-at-00.22.19.png",
+            "src": "http://192.168.64.2/media/pages/articles/week-11-i-learned-a-bunch/728199332-1589408587/screenshot-2020-05-14-at-00.22.19.png",
+            "id": "articles/week-11-i-learned-a-bunch/screenshot-2020-05-14-at-00.22.19.png",
+            "ratio": 0.828693790149892972607403862639330327510833740234375,
+            "caption": "",
+            "css": "datacellfoto3"
+        },
+        "content": "",
+        "id": "_rtlk2nztz",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Our question: \"On the average day, what do your meals look like?\"",
+        "id": "_u7oz48wz5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Result",
+        "id": "_mrhor6x3z",
+        "type": "h3"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-11-i-learned-a-bunch/files/screenshot-2020-05-14-at-00.25.01.png",
+            "src": "http://192.168.64.2/media/pages/articles/week-11-i-learned-a-bunch/3666797017-1589408759/screenshot-2020-05-14-at-00.25.01.png",
+            "id": "articles/week-11-i-learned-a-bunch/screenshot-2020-05-14-at-00.25.01.png",
+            "ratio": 2.792134831460673982661546688177622854709625244140625,
+            "caption": "",
+            "css": "datacellfoto4"
+        },
+        "content": "",
+        "id": "_ss3a0denu",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-11-i-learned-a-bunch/files/screenshot-2020-05-14-at-00.26.19.png",
+            "src": "http://192.168.64.2/media/pages/articles/week-11-i-learned-a-bunch/2938994270-1589408790/screenshot-2020-05-14-at-00.26.19.png",
+            "id": "articles/week-11-i-learned-a-bunch/screenshot-2020-05-14-at-00.26.19.png",
+            "ratio": 1.4411764705882352810561997102922759950160980224609375,
+            "caption": "",
+            "css": "datacellfoto5"
+        },
+        "content": "",
+        "id": "_10fel9h5u",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Data cells is a super efficient way to gather data visually. You can see the result at quicker, and can form insights easier. ",
+        "id": "_ny1209hao",
+        "type": "paragraph"
+    }
+]
