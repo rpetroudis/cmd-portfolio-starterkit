@@ -86,7 +86,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Although the idea was nice, there were some impracticalities. And that is why me and my brother are going to challenge ourselves to program a plugin, where family and friends can play wherever they are.",
+        "content": "Although the idea was nice, there were some impracticalities. And that is why me and my brother are going to challenge ourselves to program an extension, where family and friends can play wherever they are.",
         "id": "_2xxiu9xbt",
         "type": "paragraph"
     },
