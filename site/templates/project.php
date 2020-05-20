@@ -31,7 +31,7 @@
 </div>
 <div class="row">
   <div class="col-12">
-    <?= $page->text()->blocks()->html() ?>
+    <?= $page->text()->blocks() ?>
   </div>
 </div>
 

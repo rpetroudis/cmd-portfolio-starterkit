@@ -13,7 +13,7 @@
       <h1><?= $page->title() ?></h1>
     </header>
     <p><?= $page->date()->toDate('d.m.Y') ?></p>
-    <?= $page->text()->blocks()->html() ?>
+      <?= $page->text()->blocks() ?>
     <a class="back" href="<?= url('articles') ?>">&#8592; Back</a>
   </article>
 </section>
