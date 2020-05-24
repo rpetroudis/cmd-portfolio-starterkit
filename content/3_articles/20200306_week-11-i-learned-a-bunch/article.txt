@@ -144,7 +144,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Data cells is a super efficient way to gather data visually. You can see the result at quicker, and can form insights easier. ",
+        "content": "Data cells is a super efficient way to gather data visually. You can see the result at quicker, and can form insights easier.",
         "id": "_ny1209hao",
         "type": "paragraph"
     }
