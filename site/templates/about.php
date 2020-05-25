@@ -8,7 +8,7 @@
 <div class="row">
   <div class="col-12 col-lg-9">
     <?php snippet('intro') ?>
-    <?= $page->text()->block()->html() ?>
+    <?= $page->toData()->pluck('content')->or($page)->text()->html() ?>
   </div>
   <div class="col-12 col-lg-3">
     <div class= 'resume'> <h2>Resume</h2> </div>
