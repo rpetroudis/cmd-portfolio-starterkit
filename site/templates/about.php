@@ -8,7 +8,7 @@
 <div class="row">
   <div class="col-12 col-lg-9">
     <?php snippet('intro') ?>
-    <?= $page->toData()->toString()->html() ?>
+    <?= $page->toData()->toString()?>
   </div>
   <div class="col-12 col-lg-3">
     <div class= 'resume'> <h2>Resume</h2> </div>
