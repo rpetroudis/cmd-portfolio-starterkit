@@ -8,7 +8,7 @@
 <div class="row">
   <div class="col-12 col-lg-9">
     <?php snippet('intro') ?>
-    <?= $page->blocks()->toData()->toJson()->html() ?>
+    <?= $page->toData()->toJson()->html() ?>
   </div>
   <div class="col-12 col-lg-3">
     <div class= 'resume'> <h2>Resume</h2> </div>
