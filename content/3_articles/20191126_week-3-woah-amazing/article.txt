@@ -1,0 +1,133 @@
+Title: Windows of Willemstad
+
+----
+
+Date: 2019-11-26
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "While living in the Netherlands, there's the ocassional feeling of missing 'home'. In one of these episodes, I came up with the idea to create something that would represent my island. I wanted a piece that would carry the richness of color and architecture that Cura\u00e7ao possesses.",
+        "id": "_OjCTHa7Zp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I've always liked the idea of windows. Windows captured in paintings, illustrations or pictures. It all tells a story. Windows always make me imagine what could be behind them. What type of people would be living there. The history behind them and the building itself. And, how many things have been seeing from that window.",
+        "id": "_LyCX8zldQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Combining my love for windows and architecture of Cura\u00e7ao, I created the following concept; A relief tile depicting a window of one of the countless momunemt found on the island.",
+        "id": "_dhy3oUoWn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Prototype",
+        "id": "_4fmz2bc7p",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "To have an idea of what the art pieces would look like, I wanted to create prototypes. Realizing my sculpting skills weren't the best, I have decided to do what I'm better at. first, i drew the window in Illustrator and had this lasercut. However, I wasn't pleased with the results, primarily because it didn't give a me a real look. I then chose to make a 3d model, using Tinkercad and 3d printed this the following day. Here, I focused on the proper measurements.",
+        "id": "_2ktay8vdq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-3-woah-amazing/files/imagos-png-12.png",
+            "src": "http://192.168.64.2/media/pages/articles/week-3-woah-amazing/4041399260-1592210369/imagos-png-12.png",
+            "id": "articles/week-3-woah-amazing/imagos-png-12.png",
+            "ratio": 1.4083484573502722536630926697398535907268524169921875,
+            "caption": "",
+            "css": "Windowsfoto1"
+        },
+        "content": "",
+        "id": "_3kbn4trae",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-3-woah-amazing/files/imagos-png-13.jpg",
+            "src": "http://192.168.64.2/media/pages/articles/week-3-woah-amazing/141749013-1592210641/imagos-png-13.jpg",
+            "id": "articles/week-3-woah-amazing/imagos-png-13.jpg",
+            "ratio": 2.2409513960703204560331869288347661495208740234375,
+            "caption": "",
+            "css": "Windowsfoto2"
+        },
+        "content": "",
+        "id": "_2it7chfti",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "I printed the following days, two other models. From these models I created molds using air dry clay, which were used to create the first clay windows. These were not perfect, since I wasn't aware of how clay bent and moved, while trying to pull the cast of the mold. However, I had a first impression of what they would look like. Finally, I painted some parts in vibrant colors.",
+        "id": "_o110iuxdr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-3-woah-amazing/files/imagos-png-14.jpg",
+            "src": "http://192.168.64.2/media/pages/articles/week-3-woah-amazing/3125950213-1592210650/imagos-png-14.jpg",
+            "id": "articles/week-3-woah-amazing/imagos-png-14.jpg",
+            "ratio": 2.8179453836150845091879091341979801654815673828125,
+            "caption": "",
+            "css": "Windowsfoto3"
+        },
+        "content": "",
+        "id": "_sou0ndrjh",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/articles+week-3-woah-amazing/files/imagos-png-15.jpg",
+            "src": "http://192.168.64.2/media/pages/articles/week-3-woah-amazing/2268208821-1592210657/imagos-png-15.jpg",
+            "id": "articles/week-3-woah-amazing/imagos-png-15.jpg",
+            "ratio": 2.417177914110429259864076811936683952808380126953125,
+            "caption": "",
+            "css": "Windowsfoto4"
+        },
+        "content": "",
+        "id": "_jdqynym80",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Animation",
+        "id": "_c6fn4nass",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "I have decided to download Blender for a project of school. To get the hang of it, I wanted to make something easy. A window was the perfect choice. It took me around 14 hours to create a model, add materials, film different clips and finally make a short video. Although I have a preference for learning by doing, I had to watch different tutorials to understand how to perform little specific actions. I can say that I'm pleased with the result.",
+        "id": "_94bxx0x0f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=ZndrhuM5hZ0",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_raq426yw9",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Next steps",
+        "id": "_4rdvtjccm",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "I am currently researchign the possibilities for production. I am mainly interested in the different materials the windows can be made out of. There are many types of clays, resins and types of paint. Possibilities are endless.",
+        "id": "_jhb9lflv0",
+        "type": "paragraph"
+    }
+]

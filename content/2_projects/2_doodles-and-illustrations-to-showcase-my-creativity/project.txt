@@ -23,13 +23,13 @@ Text:
 [
     {
         "attrs": [],
-        "content": "For the client NRC we needed to design an attractive user onboarding program that will hook the new clients, this way, lowering their cancelation rates.",
+        "content": "For the client NRC we needed to design an attractive user onboarding program that will hook the new clients, lowering their cancelation rates.",
         "id": "_es3HvvUwI",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Except the additions I made to our product; a remodelled app with new features, I focused also on the exposition. Here my target group wasn\u2019t the clients of the NRC but the teachers, students, and NRC. Everyone who would visit the exhibit. During the exposition trial, I realized we had information on different media to showcase. Laptops, phones, posters and flyers. I found it to be too messy. Therefore I wanted to reduce the number of media used, resulting in a more cohesive experience.",
+        "content": "Except the additions I made to our product; a remodelled app with new features, I focused also on the exposition and this is what I want to illustrate. Here, my target group wasn\u2019t the clients of the NRC but the teachers, students, and NRC. Everyone who would visit the exhibit. During the exposition trial, I realised that the informations we had to share were displayed each on a different mediums. Laptops, phones, posters and flyers. I found this chaotic. Therefore I wanted to reduce the number of media used, resulting in a more cohesive experience.",
         "id": "_i7jxnwpn1",
         "type": "paragraph"
     },
@@ -48,13 +48,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I started brainstorming for ideas. In pinterest, I searched for art, museum, and exhibition installations. After not too long searching, I came across a form I thought would suit our project; where information was spread out in a grid. Most of these were written on boards of different sizes or projected on a wall. I quickly made a simple moodboard.",
+        "content": "I started brainstorming for ideas. I searched for art, museum, and exhibition installations on Pinterest. After a short search, I came across a form I thought would suit our project; where information was spread out in a grid. Most of these were written on boards of different sizes or projected on a wall. I quickly made a simple mood board.",
         "id": "_jxR6NEQLY",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "After some brainstorming I sketched the idea. It would be an installation that consisted only of pieces of paper hanged on nylon thread attached horizontally on a wooden frame. Each peace of paper would carry a piece of information, (the current situation, the desired situation, our design question, oud design process, persona, our solution, our design principles and the values of the NRC) forming together the big picture. Thereafter, I needed to find a logical order to lay the information out. I created various sketchen on grid paper, in the end i chose this one.",
+        "content": "After some brainstorming I sketched the idea. It would be an installation that consisted only of pieces of paper hanged on nylon thread attached horizontally on a wooden frame. Each piece of paper would carry a piece of information, (the current situation, the desired situation, our design question, our design process, persona, our solution, our design principles and the values of the NRC) forming together the big picture. Thereafter, I needed to find a logical order to lay the information out. I created various sketches on grid paper, in the end I chose this one.",
         "id": "_Vp75Ro1hq",
         "type": "paragraph"
     },
@@ -73,7 +73,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I digitalized the sketch using Illustrator, using the actual sizes, that way I'd have the correct measurements. I made a lowfid prototype using string, tape and a few pieces op paper. It resulted too big and would be too expensive to produce. I scaled it down, allowing more paper to be printed on A3 paper, instead of A2 and A1.",
+        "content": "I digitalised the sketch using Illustrator, using the actual sizes, that way I'd have the correct measurements. I made a lowfid prototype using string, tape and a few pieces op paper. It resulted too big and would be too expensive to produce. I scaled it down, allowing more paper to be printed on A3 paper, instead of A2 and A1. This reduced costs and brought the audience closer to the installation.",
         "id": "_vba7ng1tk",
         "type": "paragraph"
     },
@@ -92,7 +92,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "To reduce the digital media, yet to keep the installation interactive, i've decided to incorporate Augmented Reality to it, eliminating the use of a laptop. I made a short video in iMovie, using stock footage from Pexels.com together with a voiceover, to introduce the public to our Persona. I aslo made a screen-recording of our app, showing the features we've added. I found an application; Artivive, which allows you to create AR simply by dropping the desired AR video and a trigger image, and I used this to make the interaction in our installation possible.",
+        "content": "To reduce the digital media, yet to keep the installation interactive, I've decided to incorporate Augmented Reality to it, eliminating the use of a laptop. I made a short video in iMovie, using stock footage from Pexels.com. This imagery accompanied by a narration, introduced our persona to the public. I also made a screen-recording of our app, showing the features we've added. I found an application; Artivive, which allows you to create AR simply by dropping the desired AR video and a trigger image, and I used this to make the interaction in our installation possible.",
         "id": "_iVhLNbrHo",
         "type": "paragraph"
     },
@@ -121,7 +121,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "This installation was a true challenge. I encountered many obstacles along the way e.g.: combination of multiple media, stirdyness of the frame, getting to know Artivive, yet it is one of the projects I'm most proud of. The making of thid installation has opened up a world of possibilities for me in the future. By frocing myself to think outside of the box, and search for new technologies, I have the possibility to create extraordinary things. When comparing this project to the first one I\u2019ve done, Kaantje boord, I can notice some decent growth. Mostly the combination of different technologies to create a final piece, usually in expositions. It reinforced my will to study this course.",
+        "content": "This installation was a true challenge. I encountered many obstacles along the way e.g.: combination of multiple media, sturdiness of the frame, getting to know Artivive, yet it is one of the projects I'm most proud of. The making of this installation has opened up a world of possibilities for me in the future. By forcing myself to think outside of the box, and search for new technologies, I have the possibility to create extraordinary things. When comparing this project to the first one I\u2019ve done, Kaantje boord, I can notice some decent growth. Mostly the combination of different technologies to create a final piece, usually in expositions. It reinforced my will to study this course.",
         "id": "_Vq0C9mU0I",
         "type": "paragraph"
     },

@@ -1,4 +1,45 @@
-Title: test
+Title: Windows of Willemstad
+
+----
+
+Roles: Visual Designer
+
+----
+
+Duration: 26 November 2019 - Present
+
+----
+
+Clients: Windows of Willemstad
+
+----
+
+Deliverables: Models, Prototypes, 3D renders
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "While living in the Netherlands, there's the ocassional feeling of missing 'home'. In one of these episodes, I came up with the idea to create something that would represent my island. I wanted a piece that would carry the richness of color and architecture that Cura\u00e7ao possesses.",
+        "id": "_s8z5spidq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I've always liked the idea of windows. Windows captured in paintings, illustrations or pictures. It all tells a story. Windows always make me imagine what could be behind them. What type of people would be living there. The history behind them and the building itself. And, how many things have been seeing from that window.",
+        "id": "_jt01wgt9b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Combining my love for windows and architecture of Cura\u00e7ao, I created the following concept; A relief tile depicting a window of a momunemt found on the island. Together with it,",
+        "id": "_smdbpmfo7",
+        "type": "paragraph"
+    }
+]
 
 ----
 

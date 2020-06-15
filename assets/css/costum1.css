@@ -389,39 +389,33 @@ iframe {
 
 
 
-/* Bon ku ne */
+/* Escape Room */
 
-.Bonkunefoto1 img {
-    width: 50%;
-    position: relative;
-    float: right;
-    margin-left: 30px;
-}
-
-.Bonkunefoto2 img {
+.Escaperoomfoto1 img {
     width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-.Bonkunefoto3 img {
+.Escaperoomfoto2 img {
     width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-.Bonkunefoto4 img {
+.Escaperoomfoto3 img {
     width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-h3 {
-    font-size: large;
-    font-family: 'Questrial', sans-serif;
-    font-weight: 600;
-    color: black;
+.Escaperoomfoto4 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
+
+
 
 /* articles */
 
@@ -516,4 +510,66 @@ h3 {
 
 li {
     font-family: 'Spartan', sans-serif;
+}
+
+/* Bon ku ne */
+
+.Bonkunefoto1 img {
+    width: 50%;
+    position: relative;
+    float: right;
+    margin-left: 30px;
+}
+
+.Bonkunefoto2 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Bonkunefoto3 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Bonkunefoto4 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: large;
+    font-family: 'Questrial', sans-serif;
+    font-weight: 600;
+    color: black;
+}
+
+
+
+/* Windows of Willemstad */
+
+.Windowsfoto1 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Windowsfoto2 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Windowsfoto3 img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Windowsfoto4 img { 
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }

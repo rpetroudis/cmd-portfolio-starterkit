@@ -1,0 +1,158 @@
+Title: The Escape Room
+
+----
+
+Roles: Visual designer, User reasearcher, User tester,
+
+----
+
+Duration: February 2020 - June 2020
+
+----
+
+Clients: Erasmus Food Lab
+
+----
+
+Deliverables: Prototypes,
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "My most recent project is for the Erasmus University Foodlab. They are part of a hub that inform students on sustainability and health. For the Foolab, my team and I were challenged with the task of creating something that would motivate students to be more healthy and sustainable.",
+        "id": "_aotaur394",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "After research at the University and interviews with different students and stakeholder, we came to the conclusion that students like to be challenged. They like to complete little task for a small reward, while working towards a bigger goal. Also, we've concluded that the social circle of these students are of utmost importance when it comes to the physical and mental health.",
+        "id": "_wg0jspagg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Our solution is an app, with weekly challenges that students can take. They will be rewarded with point, and every student using the app can participate to become the best of the week. We've included a feature which is 'events'. This included gathering of students where they can learn, share and take on challenges together. To attract students to the app, we will start with one event. An interactive intervention that would 1) Make students aware of sustainability and how they can contribute, and 2) Introduce the students to the idea of challenges and rewards that would be the key for the app.",
+        "id": "_q8p1xsnti",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Control Room",
+        "id": "_jv98rd1x5",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "The control room is the theme of an escape room, where students work in a team to achieve the goal. After writing a basic story, I asked student in a co-creation session to make a word web of what comes to mind when hearing the words 'control room' and sketches or images of their ideal escape room. With this information, I created a paper prototype of the room for feedback from teachers, students and the client.",
+        "id": "_njsx6y430",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+this-is-a-test-project/files/imagos-png-16.png",
+            "src": "http://192.168.64.2/media/pages/projects/this-is-a-test-project/90340636-1592210148/imagos-png-16.png",
+            "id": "projects/this-is-a-test-project/imagos-png-16.png",
+            "ratio": 2.81809314801267962735664696083404123783111572265625,
+            "caption": "",
+            "css": "Escaperoomfoto1"
+        },
+        "content": "",
+        "id": "_vew7sbcoa",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "While being in quarantine, i didn't have access to materials. So I used what I had laying around the house. I built a set using 70 gram marker paper, hanged from sting and nylon thread suspended by bottles filled with water. Everything was cut and painted by hand. To present this low-fid prototype, I've decided to create a stop motion animation. This way I could make different parts of the prototype move, giving it a more realistic look, while being on my own.",
+        "id": "_3tq05ni81",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+this-is-a-test-project/files/imagos-png-17.png",
+            "src": "http://192.168.64.2/media/pages/projects/this-is-a-test-project/939676844-1592210185/imagos-png-17.png",
+            "id": "projects/this-is-a-test-project/imagos-png-17.png",
+            "ratio": 1.51931716082659473698868168867193162441253662109375,
+            "caption": "",
+            "css": "Escaperoomfoto2"
+        },
+        "content": "",
+        "id": "_gy7p13uvp",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+this-is-a-test-project/files/imagos-png-18.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/this-is-a-test-project/2141379076-1592210707/imagos-png-18.jpg",
+            "id": "projects/this-is-a-test-project/imagos-png-18.jpg",
+            "ratio": 2.16209476309226911183714037179015576839447021484375,
+            "caption": "",
+            "css": "Escaperoomfoto3"
+        },
+        "content": "",
+        "id": "_z0w9si4sh",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+this-is-a-test-project/files/imagos-png-19.png",
+            "src": "http://192.168.64.2/media/pages/projects/this-is-a-test-project/2268261069-1592210211/imagos-png-19.png",
+            "id": "projects/this-is-a-test-project/imagos-png-19.png",
+            "ratio": 2.0393506264337393218966099084354937076568603515625,
+            "caption": "",
+            "css": "Escaperoomfoto4"
+        },
+        "content": "",
+        "id": "_xcnr435v3",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "The Challenge",
+        "id": "_snl5urk71",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "In 10 years, campus is almost 100% sustainable. All of this, thanks to a committee of people dedicated on making this happen. They control everything from a control room and by analysing different data, they know what shall be done to keep e.g. emissions low. However, for some reason or other, something went wrong and no member of the committee is to be found. The students, because they know the ins and outs of campus, are the only ones who \u2014 within an hour \u2014 needs to bring the campus to the high levels of sustainability back.",
+        "id": "_3iwi4sx9i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=w7uM_yUtWWM",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_ra00anlsx",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "My next step is to digitalize this room using Blender. I want to do this in order to show how the final room would look like. The client and target group can give more insightful feedback.",
+        "id": "_86mtl00g5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=gh0_j1WM624",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_d2wyouqv6",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "I created this model in Blender, and displayed it at the trial expo in order to get feedback. Although people liked the design, they also expressed it lacked a lot of context, and wasn't completely obvious. These are the main components I'm going to be working on for the final expo.",
+        "id": "_cji034e3k",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Textarea: 

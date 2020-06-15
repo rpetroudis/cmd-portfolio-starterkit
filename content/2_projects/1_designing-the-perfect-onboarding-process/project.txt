@@ -23,13 +23,13 @@ Text:
 [
     {
         "attrs": [],
-        "content": "For this project, we needed to design a game for freshman students of the Hogeschool Rotterdam. It needed to introduce the students to each other, as well as the city Rotterdam. It also needed to contain a digital and a non-digital element.",
+        "content": "For this project, we needed to design a game for freshman students of the Rotterdam University of Applied Sciences. It needed to introduce the students to each other, but also to the city Rotterdam. It also needed to contain a digital and a non-digital element.",
         "id": "_i3i60r77z",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "We chose as target group Maritime Officer student, because Rotterdam is known for it\u2019s harbors. After desk and field reasearch, each team member brainstormed ideas for the game. I wanted to do something different. Something unique.",
+        "content": "After having to kill our first darling, as part of the process, we chose as target group Maritime Officer student, because Rotterdam is known for it\u2019s harbors. After desk and field reasearch, each team member brainstormed ideas for the game. I wanted to do something different. Something unique.",
         "id": "_R5y3UblrV",
         "type": "paragraph"
     },
@@ -48,19 +48,19 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I knew that students needed to get to know each other, so my idea had to be team-based. They needed to get to know the city as well. This needed to be done quickly; \"videos, that way they can play the game in a room\". With this thought process i created a concept.",
+        "content": "I knew that students needed to get to know each other, so my idea had to be team-based. They needed to get to know the city as well. This needed to be done quickly; \"videos, that way they can play the game in a room while seeing other parts of the city. But how can I make them feel like they're at the different places in the videos?\". With these thoughts I created my first concept.",
         "id": "_dg8hh0bcu",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "I have decided to make the game take place in an 360 degrees immersive room with interactive walls, in which teams of 5 get to see informative videos about the city and harbors projected on interactive walls, where 1 team member needs to answer a few questions thereof afterwards (digital element). Correct answers will earn the team time which can be used to move containers from a miniature ship, to the deck. This action is collectively controlled by the 4 remaining students using a hydraulic crane made out of syringes: the non-digital element. I created the map to better explain the concept. My team chose this idea because it was the most unique compared to what the others had; some version of a board game.",
+        "content": "I have decided to make the game take place in an 360 degrees immersive room with interactive walls, displaying informative videos. Per round, one student needs to answer questions of the videos they have just seen; digital element. Correct answers will earn the team time which can be used to move containers from a miniature ship, to the deck. This action is collectively controlled by the 4 remaining students using a hydraulic crane made out of syringes; the non-digital element. This game give students insight in not only who each other is, but rather how each person perform in groups, under time pressure and possible stress. I created the map to better explain the concept. My team chose this idea because it was the most unique compared to what the others had; some version of a board game.",
         "id": "_fzl0djnun",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Together with my fellow students, we refine the concept to a functional game by adding additional features. Containers on deck give you points, but you can also open a container and get a specific code. Typing this code in the wall can lead to advantages for you or other teams. The team decides if they\u2019re willing to take the risk.",
+        "content": "Together with my fellow students, we refined the concept to a functional game by adding additional features. Containers on deck give you points, but you can also open a container and get a specific code. Typing this code in the wall can lead to advantages for you or other teams. The team decides if they\u2019re willing to take the risk.",
         "id": "_GEp6fbo6A",
         "type": "paragraph"
     },
@@ -79,7 +79,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "To execute this concept, I worked primarely on the non-digital element. I created a low-fid version of the crane out of cardboard, syringes and tubes to do a usability test. This crane could only be controlled by 2 people. Another team in our studio were our test subjects in this case. We split the team in 2, and they had to move a cardboard container from point a, to point b. They were judged on speed, and control of the crane. After collecting and analyzing the feedback, we were green lit for a highfid prototype. I drew each part of the crane in Illustrator, and these were laser cut, also on cardboard. This crane had the ability to be controlled by 4 people.",
+        "content": "To execute this concept, I worked primarely on the non-digital element. I created a low-fid version of the crane out of cardboard, syringes and tubes to do a usability test. This crane could only be controlled by 2 people. Another team in our studio were our test subjects in this case. We split the team in 2, and they had to move a cardboard container from point a, to point b. They were judged on speed, and control of the crane. After collecting and analyzing their feedback, we were green lit for a highfid prototype. I drew each part of the crane in Illustrator, and these were laser cut on grey cardboard. This crane had the ability to be controlled by 4 people.",
         "id": "_3mz70fi98",
         "type": "paragraph"
     },
@@ -140,7 +140,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I really liked this project. I got to work with my hands, being creative and I designed something other an app. I am very proud of that. As this project, I hope to apply innovative and out of the box solutions for problems in everyday environments and objects.",
+        "content": "I really liked this project. I got to work with my hands, being creative and I designed something other out of the box. I am very proud of that. As this project, I hope to apply innovative and out of the box solutions for problems in everyday environments and objects.",
         "id": "_1jcu8b4di",
         "type": "paragraph"
     },

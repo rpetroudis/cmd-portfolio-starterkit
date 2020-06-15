@@ -7,25 +7,25 @@ Text:
 [
     {
         "attrs": [],
-        "content": "For a boy, born and raised on an island such as Cura\u00e7ao, the possibilities of studying something artistic were very limited. That\u2019s why on the age of 20, I embarked to the Netherlands, where I\u2019d study Communications &amp; Multimedia Design for one year and then continue to study Filmmaking. I am well aware that everything around me conveys its own story. And I knew since I was a child, that I want to be a storyteller. But life had other plans.",
+        "content": "For a boy, born and raised on an island such as Cura\u00e7ao, the possibilities of studying something artistic were very limited. That\u2019s why on the age of 20, I embarked to the Netherlands. I knew since I was a child, that I want to be a storyteller and wanted to pursue this dream.",
         "id": "_SoJSlK6cj",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "See, I chose Communications &amp; Multimedia Design because designing apps was something I\u2019ve done it before, without having much knowledge of the subject. But in the first year at Hogeschool Rotterdam, I realised how narrow and naive my view of the study was. As time went by my love grew for experience and interaction design.",
+        "content": "Although Communications &amp; Multimedia Design wasn\u2019t my first choice, I\u2019ve decided to apply, because I\u2019ve designed apps before in my free time. Further I didn\u2019t have much knowledge on the area. But in the first year at Rotterdam University of Applied Sciences, I realised how narrow and naive my view of the study was. As time went by my love grew for experience and interaction design.",
         "id": "_UUF8SHuwD",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "I've always been fascinated by the little touchpoint that complete an experience. From the self-service checkouts in supermarkets and touchscreens in museums, to the scenic design at attraction parks such as Disney World and Universal Studios. When I found out that these were a part of multimedia design as well, I've decided that this course is what I truly want to follow. It gives me the chance of telling stories to a more personal level. Where the audience is more engaged.",
+        "content": "I've always been fascinated by the little touchpoint that complete an experience. From touchscreens in museums, to the scenic design at attraction parks such as Disney World and Universal Studios. When I found out that these were a part of multimedia design as well, I've decided that this course is what I truly want to follow. It gives me the chance of telling stories to a more personal level. Where the audience is more engaged.",
         "id": "_96ijcu1u0",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Although the projects we've gotten at school were primarely focused on apps, I've consistantly searched for the windows of opportunities where I could design and make something more grandiose. Some of these are displayed in My Work, along with some personal projects.",
+        "content": "Although the projects we've gotten at school were primarily focused on apps, I've consistently searched for the windows of opportunities where I could design and make something more unique, different from the conventional app or website. Some of these are displayed in My Work, along with some personal projects.",
         "id": "_8p9rfaa04",
         "type": "paragraph"
     },

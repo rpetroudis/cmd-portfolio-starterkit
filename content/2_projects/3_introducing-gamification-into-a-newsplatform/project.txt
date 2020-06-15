@@ -23,31 +23,31 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Each year, hundreds of students from Cura\u00e7ao, get on a plane to come and live here, in The Netherlands. Because Cura\u00e7ao is such a small island, educational courses are limited. Therefore grand majority of high school graduates emigrates abroad. Last year, I was one of these students, together with my brotherr and other friends i know.",
+        "content": "Each year, hundreds of students from Cura\u00e7ao, get on a plane to come and live here, in The Netherlands. Because Cura\u00e7ao is such a small island, educational courses are not so diverse. Therefore, a grand majority of high school graduates emigrates abroad. In 2018, I was one of these students, together with my brother and other friends.",
         "id": "_m5983h9k4",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "After a 9 hour flight we arrived on at Schiphol which we were in turn separated to our designated cities. Once in Rotterdam, we were greeted by the Begeleidingscommissie Rotterdam. A group of students already living here for a few years, and mentors. They were in charge of making our arrival as smooth as possible. In a program lasting 5 days, they guide us in the tasks required to start life here.",
+        "content": "After a 9 hour flight we arrived at Schiphol which we were in turn separated to our designated cities. Once in Rotterdam, we were greeted by the Begeleidingscommissie Rotterdam. A group of students already living here for a few years, and mentors. They were in charge of making our arrival as smooth as possible.",
         "id": "_6anpcur3g",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "They take the students to register at the municipality, help them open a bank account, get insurance, even helping them with the buying of furniture. The week ends with a little party.",
+        "content": "In a program lasting 5 days, they guide each student in the tasks required to start life here. They take the students to register at the municipality, help them open a bank account, get insurance, even helping them with choosing the perfect furniture. The week ends with a little party.",
         "id": "_tg5b4dmx7",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Coming from an organizational background (with Scouting), I quickly noticed a lot of aspect that could be done better. That is why I volunteered to join the organization the following year (2019). I wrote a proposal for a theme for the introduction week, Monopoly. I chose Monopoly, because you can get valuable life lessons out of the game. Three core aspects I thought would be of value for the students (based on experiences of freshmen students of my year, and myself) were; Communication, Strategy and Budgeting.",
+        "content": "Coming from an organisational background (with Scouting), I quickly noticed a lot of aspect that could be done better. That is why I volunteered to join the organisation the following year (2019). I wrote a proposal for a theme for the introduction week, Monopoly. I chose Monopoly, because you can get valuable life lessons out of the game. Three core aspects I thought would be of value for the students (based on experiences of freshmen students of my year, and myself) were; Communication, Strategy and Budgeting.",
         "id": "_b0c4mnxw5",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "After the proposal was approved by the mentors, I had to convince the other members of the committee, therefore I had to give a presentation, which went succesfully. By getting 'the job', I was responsible for branding material of the week, location decor, materials, and entertainment. (there may not have been a single moment free in the program. Spaces between the important moments, were filled with activities).",
+        "content": "After the proposal was approved by the mentors, I had to convince the other members of the committee, therefore I had to give a presentation, which went successfully. By getting 'the job', I was responsible for branding material of the week, location decor, materials, and entertainment. (there may not have been a single moment free in the program. Spaces between the important moments, were filled with activities).",
         "id": "_exvzq3mex",
         "type": "paragraph"
     },
@@ -57,8 +57,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/1272603491-1589389420/screenshot-2020-05-13-at-18.57.39.png",
             "id": "projects/introducing-gamification-into-a-newsplatform/screenshot-2020-05-13-at-18.57.39.png",
             "ratio": 1.732660781841109720602389643318019807338714599609375,
-            "caption": "Students exectuing the different activities",
-            "css": "Introweekfoto1"
+            "css": "Introweekfoto1",
+            "caption": "Students executing the different activities"
         },
         "content": "",
         "id": "_jlpamkgol",
@@ -66,7 +66,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "My brother, a mastermind i'm happy to know, and I, devised a point system, and created different activities that would be executed throughout the week. I had to make sure that we had activities that would cover different time frames, were teambased, and of course, that would target the main core aspects of the theme.",
+        "content": "My brother, a mastermind i'm happy to know \u2013 and I, devised a point system, and created different activities that would be executed throughout the week. I had to make sure that we had activities that would cover different time frames, were team-based, and of course, that would target the main core aspects of the theme.",
         "id": "_izg5ogpvi",
         "type": "paragraph"
     },
