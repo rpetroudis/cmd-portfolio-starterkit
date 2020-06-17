@@ -7,13 +7,13 @@ Text:
 [
     {
         "attrs": [],
-        "content": "For a boy, born and raised on an island such as Cura\u00e7ao, the possibilities of studying something artistic were very limited. That\u2019s why on the age of 20, I embarked to the Netherlands. I knew since I was a child, that I want to be a storyteller and wanted to pursue this dream.",
+        "content": "For a boy, born and raised on an island such as Cura\u00e7ao, the possibilities of studying something artistic were very limited. I knew since I was a child, that I want to be a storyteller and wanted to pursue this dream. That\u2019s why on the age of 20, I embarked to the Netherlands.",
         "id": "_SoJSlK6cj",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Although Communications &amp; Multimedia Design wasn\u2019t my first choice, I\u2019ve decided to apply, because I\u2019ve designed apps before in my free time. Further I didn\u2019t have much knowledge on the area. But in the first year at Rotterdam University of Applied Sciences, I realised how narrow and naive my view of the study was. As time went by my love grew for experience and interaction design.",
+        "content": "Because I didn't have a clear vision of how I wanted to study storytelling, I've decided to enrol for Communications &amp; Multimedia Design. I have designed an app interface in my free time, but further I didn't have much knowledge of the area. In the first year at Rotterdam University of Applied Sciences, I realised how narrow and naive my view of the study was. As time went by my love grew for experience and interaction design.",
         "id": "_UUF8SHuwD",
         "type": "paragraph"
     },
@@ -31,7 +31,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I take pride in my ability to think outside of the box and come up with great ideas, visualizing these ideas, and my fine motor skills. I'm very practical and artistic. I love to work with my hands. You will see me bloom in an environment where I, with the help of constraints, have the freedom to create and be handy; where I can express myself without any limitations.",
+        "content": "I take pride in my ability to think outside of the box and come up with great ideas, visualizing these ideas, and my fine motor skills. I'm very practical and artistic. I love to work with my hands. You will see me bloom in an environment where I, with the help of constraints, have the freedom to create and be handy.",
         "id": "_th00nzkfw",
         "type": "paragraph"
     },

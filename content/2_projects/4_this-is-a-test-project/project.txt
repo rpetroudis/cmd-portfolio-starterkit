@@ -2,11 +2,11 @@ Title: The Escape Room
 
 ----
 
-Roles: Visual designer, User reasearcher, User tester,
+Roles: Visual designer, User researcher and tester,  Information architecture
 
 ----
 
-Duration: February 2020 - June 2020
+Duration: January 2020 - June 2020
 
 ----
 
@@ -14,7 +14,7 @@ Clients: Erasmus Food Lab
 
 ----
 
-Deliverables: Prototypes,
+Deliverables: Prototypes, Remote tests,
 
 ----
 
@@ -147,8 +147,29 @@ Text:
     },
     {
         "attrs": [],
-        "content": "I created this model in Blender, and displayed it at the trial expo in order to get feedback. Although people liked the design, they also expressed it lacked a lot of context, and wasn't completely obvious. These are the main components I'm going to be working on for the final expo.",
+        "content": "I created this model in Blender, and displayed it at the trial expo in order to get feedback. Although people liked the design, they also expressed it lacked a lot of context, and wasn't completely obvious. These were the main components I worked on for the final expo.",
         "id": "_cji034e3k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Finally, the creation was a 40 second commecial that depict consisely the theme and the goal of the room. I have update several area's in the control room and I think this gave the room more context. I am pleased to say that the client, Erasmus Foodlab was very excited about this concept and already is speaking of possible realization.",
+        "id": "_gwztwm24j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=KmvOJQDADlI",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_9cb0imma3",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_qp56mlvxx",
         "type": "paragraph"
     }
 ]
